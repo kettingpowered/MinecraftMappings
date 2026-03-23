@@ -9907,6 +9907,7 @@ axb a ()I method_15409
 axb a (Laxb;)I method_15408
 axb a field_15739
 axb b field_15737
+axb c field_19384
 axb d field_15738
 axb net/minecraft/class_3534
 axc a ()Lawz; method_24339

@@ -13714,6 +13714,7 @@ bgu a ()I method_15409
 bgu a (Lbgu;)I method_15408
 bgu a field_15739
 bgu b field_15737
+bgu c field_19384
 bgu d field_15738
 bgu net/minecraft/class_3534
 bgv a ()Lbgs; method_24339

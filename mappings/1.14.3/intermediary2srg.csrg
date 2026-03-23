@@ -35752,10 +35752,10 @@ net/minecraft/class_3533 field_16266 field_219912_f
 net/minecraft/class_3533 field_16267 field_219907_a
 net/minecraft/class_3533 field_19381 field_223510_f
 net/minecraft/class_3533 net/minecraft/profiler/Profiler
-net/minecraft/class_3534 c field_223511_c
 net/minecraft/class_3534 field_15737 field_219944_b
 net/minecraft/class_3534 field_15738 field_219945_c
 net/minecraft/class_3534 field_15739 field_219943_a
+net/minecraft/class_3534 field_19384 field_223511_c
 net/minecraft/class_3534 method_15408 (Lnet/minecraft/class_3534;)I compareTo
 net/minecraft/class_3534 method_15409 ()I func_219942_a
 net/minecraft/class_3534 net/minecraft/profiler/DataPoint

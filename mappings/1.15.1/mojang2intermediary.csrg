@@ -28010,7 +28010,7 @@ net/minecraft/util/profiling/ProfilerFiller push (Ljava/lang/String;)V method_15
 net/minecraft/util/profiling/ProfilerFiller push (Ljava/util/function/Supplier;)V method_15400
 net/minecraft/util/profiling/ProfilerFiller startTick ()V method_16065
 net/minecraft/util/profiling/ResultField compareTo (Lnet/minecraft/util/profiling/ResultField;)I method_15408
-net/minecraft/util/profiling/ResultField count c
+net/minecraft/util/profiling/ResultField count field_19384
 net/minecraft/util/profiling/ResultField getColor ()I method_15409
 net/minecraft/util/profiling/ResultField globalPercentage field_15737
 net/minecraft/util/profiling/ResultField name field_15738

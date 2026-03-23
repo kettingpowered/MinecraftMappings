@@ -16768,10 +16768,10 @@ FD: net/minecraft/class_3533/field_15736 net/minecraft/profiler/Profiler/section
 FD: net/minecraft/class_3533/field_16266 net/minecraft/profiler/Profiler/currentTicks
 FD: net/minecraft/class_3533/field_16267 net/minecraft/profiler/Profiler/WARN_TIME_THRESHOLD
 FD: net/minecraft/class_3533/field_19381 net/minecraft/profiler/Profiler/field_223510_f
-FD: net/minecraft/class_3534/c net/minecraft/profiler/DataPoint/field_223511_c
 FD: net/minecraft/class_3534/field_15737 net/minecraft/profiler/DataPoint/rootRelTime
 FD: net/minecraft/class_3534/field_15738 net/minecraft/profiler/DataPoint/name
 FD: net/minecraft/class_3534/field_15739 net/minecraft/profiler/DataPoint/relTime
+FD: net/minecraft/class_3534/field_19384 net/minecraft/profiler/DataPoint/field_223511_c
 FD: net/minecraft/class_3535/field_15740 net/minecraft/world/gen/surfacebuilders/WoodedBadlandsSurfaceBuilder/ORANGE_TERRACOTTA
 FD: net/minecraft/class_3535/field_15741 net/minecraft/world/gen/surfacebuilders/WoodedBadlandsSurfaceBuilder/WHITE_TERRACOTTA
 FD: net/minecraft/class_3535/field_15742 net/minecraft/world/gen/surfacebuilders/WoodedBadlandsSurfaceBuilder/TERRACOTTA

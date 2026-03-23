@@ -36341,7 +36341,7 @@ net/minecraft/util/profiler/ProfilerSystem nameDurationMap timesMap
 net/minecraft/util/profiler/ProfilerSystem nameList sectionList
 net/minecraft/util/profiler/ProfilerSystem net/minecraft/profiler/Profiler
 net/minecraft/util/profiler/ProfilerSystem timeList timeStack
-net/minecraft/util/profiler/ProfilerTiming c field_223511_c
+net/minecraft/util/profiler/ProfilerTiming field_19384 field_223511_c
 net/minecraft/util/profiler/ProfilerTiming getColor ()I getTextColor
 net/minecraft/util/profiler/ProfilerTiming method_15408 (Lnet/minecraft/util/profiler/ProfilerTiming;)I compareTo
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/profiler/DataPoint

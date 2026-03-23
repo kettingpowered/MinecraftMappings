@@ -3380,7 +3380,7 @@ net/minecraft/profiler/DataPoint net/minecraft/class_3534
 	field_219943_a field_15739
 	field_219944_b field_15737
 	field_219945_c field_15738
-	field_223511_c c
+	field_223511_c field_19384
 	compareTo (Lnet/minecraft/profiler/DataPoint;)I method_15408
 	func_219942_a ()I method_15409
 net/minecraft/util/datafix/codec/RangeCodec$2 net/minecraft/class_5324$2

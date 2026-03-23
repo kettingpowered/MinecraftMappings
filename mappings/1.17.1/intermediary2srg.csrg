@@ -41008,10 +41008,10 @@ net/minecraft/class_3533$class_4746 field_21822 f_18411_
 net/minecraft/class_3533$class_4746 field_33874 f_145932_
 net/minecraft/class_3533$class_4746 field_33875 f_145933_
 net/minecraft/class_3533$class_4746 net/minecraft/src/C_431_$C_433_
-net/minecraft/class_3534 c f_18609_
 net/minecraft/class_3534 field_15737 f_18608_
 net/minecraft/class_3534 field_15738 f_18610_
 net/minecraft/class_3534 field_15739 f_18607_
+net/minecraft/class_3534 field_19384 f_18609_
 net/minecraft/class_3534 method_15408 (Lnet/minecraft/class_3534;)I compareTo
 net/minecraft/class_3534 method_15409 ()I m_18616_
 net/minecraft/class_3534 net/minecraft/src/C_445_

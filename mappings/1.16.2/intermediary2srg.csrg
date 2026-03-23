@@ -36932,10 +36932,10 @@ net/minecraft/class_3533$class_4746 method_24249 (Lnet/minecraft/class_3533$clas
 net/minecraft/class_3533$class_4746 method_24250 (Lnet/minecraft/class_3533$class_4746;J)J func_230088_b_
 net/minecraft/class_3533$class_4746 method_24251 (Lnet/minecraft/class_3533$class_4746;)Lit/unimi/dsi/fastutil/objects/Object2LongOpenHashMap; func_230089_c_
 net/minecraft/class_3533$class_4746 net/minecraft/profiler/Profiler$Section
-net/minecraft/class_3534 c field_223511_c
 net/minecraft/class_3534 field_15737 field_219944_b
 net/minecraft/class_3534 field_15738 field_219945_c
 net/minecraft/class_3534 field_15739 field_219943_a
+net/minecraft/class_3534 field_19384 field_223511_c
 net/minecraft/class_3534 method_15408 (Lnet/minecraft/class_3534;)I compareTo
 net/minecraft/class_3534 method_15409 ()I func_219942_a
 net/minecraft/class_3534 net/minecraft/profiler/DataPoint

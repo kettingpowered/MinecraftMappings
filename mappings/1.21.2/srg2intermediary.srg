@@ -15442,6 +15442,7 @@ FD: bps$a/c net/minecraft/class_3695$class_10211/field_21966
 FD: bps/b net/minecraft/class_3695/field_29925
 FD: bpu/a net/minecraft/class_3534/field_15739
 FD: bpu/b net/minecraft/class_3534/field_15737
+FD: bpu/c net/minecraft/class_3534/field_19384
 FD: bpu/d net/minecraft/class_3534/field_15738
 FD: bpv/a net/minecraft/class_4758/field_21967
 FD: bpv/b net/minecraft/class_4758/field_21968

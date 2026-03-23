@@ -41013,10 +41013,10 @@ net/minecraft/class_2202 net/minecraft/block/BambooSaplingBlock
 	c ()Lnet/minecraft/class_1921; func_180664_k
 	method_9351 (Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;)V func_220087_a
 net/minecraft/class_3534 net/minecraft/profiler/DataPoint
-	c field_223511_c
 	field_15737 field_219944_b
 	field_15738 field_219945_c
 	field_15739 field_219943_a
+	field_19384 field_223511_c
 	method_15408 (Lnet/minecraft/class_3534;)I compareTo
 	method_15409 ()I func_219942_a
 net/minecraft/class_2203 net/minecraft/command/arguments/NBTPathArgument

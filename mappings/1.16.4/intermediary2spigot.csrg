@@ -29838,6 +29838,7 @@ net/minecraft/class_3533$class_4746 method_24251 (Lnet/minecraft/class_3533$clas
 net/minecraft/class_3534 field_15737 b
 net/minecraft/class_3534 field_15738 d
 net/minecraft/class_3534 field_15739 a
+net/minecraft/class_3534 field_19384 c
 net/minecraft/class_3534 method_15408 (Lnet/minecraft/class_3534;)I a
 net/minecraft/class_3534 method_15409 ()I a
 net/minecraft/class_3534 net/minecraft/server/MethodProfilerResultsField

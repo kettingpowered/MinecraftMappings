@@ -10502,6 +10502,7 @@ aze a ()I method_15409
 aze a (Laze;)I method_15408
 aze a field_15739
 aze b field_15737
+aze c field_19384
 aze d field_15738
 aze net/minecraft/class_3534
 azf a ()Lazc; method_24339

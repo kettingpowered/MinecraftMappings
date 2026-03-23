@@ -11222,6 +11222,7 @@ baq a ()I method_15409
 baq a (Lbaq;)I method_15408
 baq a field_15739
 baq b field_15737
+baq c field_19384
 baq d field_15738
 baq net/minecraft/class_3534
 bar a ()Lbao; method_24339

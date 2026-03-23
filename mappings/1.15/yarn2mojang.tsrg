@@ -30868,7 +30868,7 @@ net/minecraft/entity/ai/brain/task/WakeUpTask net/minecraft/world/entity/ai/beha
 net/minecraft/client/render/entity/feature/SlimeOverlayFeatureRenderer net/minecraft/client/renderer/entity/layers/SlimeOuterLayer
 	a (Lnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;ILnet/minecraft/entity/Entity;FFFFFF)V render
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/util/profiling/ResultField
-	c count
+	field_19384 count
 	parentSectionUsagePercentage percentage
 	totalUsagePercentage globalPercentage
 net/minecraft/world/gen/feature/AcaciaTreeFeature net/minecraft/world/level/levelgen/feature/AcaciaFeature

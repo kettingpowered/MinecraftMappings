@@ -39074,6 +39074,7 @@ net/minecraft/server/MethodProfilerResultsField a ()I method_15409
 net/minecraft/server/MethodProfilerResultsField a (Lnet/minecraft/server/MethodProfilerResultsField;)I method_15408
 net/minecraft/server/MethodProfilerResultsField a field_15739
 net/minecraft/server/MethodProfilerResultsField b field_15737
+net/minecraft/server/MethodProfilerResultsField c field_19384
 net/minecraft/server/MethodProfilerResultsField d field_15738
 net/minecraft/server/MethodProfilerResultsField net/minecraft/class_3534
 net/minecraft/server/MethodProfilerResultsFilled a (IILjava/lang/StringBuilder;Ljava/util/Map$Entry;)V method_24252

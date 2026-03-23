@@ -2906,6 +2906,7 @@ ain a ()I getColor
 ain a (Lain;)I compareTo
 ain a parentSectionUsagePercentage
 ain b totalUsagePercentage
+ain c field_19384
 ain d name
 ain net/minecraft/util/profiler/ProfilerTiming
 aip a (Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture; submitAsync

@@ -15701,10 +15701,10 @@ FD: net/minecraft/class_3533/field_21818 net/minecraft/util/profiler/ProfilerSys
 FD: net/minecraft/class_3533/field_21819 net/minecraft/util/profiler/ProfilerSystem/currentInfo
 FD: net/minecraft/class_3533/field_21961 net/minecraft/util/profiler/ProfilerSystem/timeGetter
 FD: net/minecraft/class_3533/field_33873 net/minecraft/util/profiler/ProfilerSystem/sampleTypes
-FD: net/minecraft/class_3534/c net/minecraft/util/profiler/ProfilerTiming/visitCount
 FD: net/minecraft/class_3534/field_15737 net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage
 FD: net/minecraft/class_3534/field_15738 net/minecraft/util/profiler/ProfilerTiming/name
 FD: net/minecraft/class_3534/field_15739 net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage
+FD: net/minecraft/class_3534/field_19384 net/minecraft/util/profiler/ProfilerTiming/visitCount
 FD: net/minecraft/class_3537/field_15744 net/minecraft/util/math/noise/OctavePerlinNoiseSampler/octaveSamplers
 FD: net/minecraft/class_3537/field_20659 net/minecraft/util/math/noise/OctavePerlinNoiseSampler/persistence
 FD: net/minecraft/class_3537/field_20660 net/minecraft/util/math/noise/OctavePerlinNoiseSampler/lacunarity

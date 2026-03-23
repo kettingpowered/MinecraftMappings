@@ -2378,7 +2378,7 @@ net/minecraft/profiler/DataPoint net/minecraft/util/profiler/ProfilerTiming
 	field_219943_a parentSectionUsagePercentage
 	field_219944_b totalUsagePercentage
 	field_219945_c name
-	field_223511_c c
+	field_223511_c field_19384
 	func_219942_a ()I getColor
 net/minecraft/stats/IStatFormatter net/minecraft/stat/StatFormatter
 	field_223217_a_ DECIMAL_FORMAT

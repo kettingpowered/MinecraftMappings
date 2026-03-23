@@ -31913,7 +31913,7 @@ FD: net/minecraft/util/profiling/Profiler/TRACY_FILLER net/minecraft/class_10209
 FD: net/minecraft/util/profiling/ProfilerFiller$CombinedProfileFiller/first net/minecraft/class_3695$class_10211/field_21965
 FD: net/minecraft/util/profiling/ProfilerFiller$CombinedProfileFiller/second net/minecraft/class_3695$class_10211/field_21966
 FD: net/minecraft/util/profiling/ProfilerFiller/ROOT net/minecraft/class_3695/field_29925
-FD: net/minecraft/util/profiling/ResultField/count net/minecraft/class_3534/c
+FD: net/minecraft/util/profiling/ResultField/count net/minecraft/class_3534/field_19384
 FD: net/minecraft/util/profiling/ResultField/globalPercentage net/minecraft/class_3534/field_15737
 FD: net/minecraft/util/profiling/ResultField/name net/minecraft/class_3534/field_15738
 FD: net/minecraft/util/profiling/ResultField/percentage net/minecraft/class_3534/field_15739

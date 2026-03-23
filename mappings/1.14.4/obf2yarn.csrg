@@ -1247,8 +1247,8 @@ ago a ()I getColor
 ago a (Lago;)I compareTo
 ago a parentSectionUsagePercentage
 ago b totalUsagePercentage
+ago c visitCount
 ago d name
-ago field_19384 visitCount
 ago net/minecraft/util/profiler/ProfilerTiming
 agq a (Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture; submitAsync
 agq a (Ljava/util/function/Supplier;)Ljava/util/concurrent/CompletableFuture; submit

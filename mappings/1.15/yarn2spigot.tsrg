@@ -29715,6 +29715,7 @@ net/minecraft/client/render/entity/feature/SlimeOverlayFeatureRenderer dzd
 	model a
 	render (Lnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;ILnet/minecraft/entity/LivingEntity;FFFFFF)V a
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/server/MethodProfilerResultsField
+	field_19384 c
 	name d
 	parentSectionUsagePercentage a
 	totalUsagePercentage b

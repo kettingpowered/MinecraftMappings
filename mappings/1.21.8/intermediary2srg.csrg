@@ -46151,6 +46151,7 @@ net/minecraft/class_3534 btv
 net/minecraft/class_3534 field_15737 b
 net/minecraft/class_3534 field_15738 d
 net/minecraft/class_3534 field_15739 a
+net/minecraft/class_3534 field_19384 c
 net/minecraft/class_3534 method_15408 (Lnet/minecraft/class_3534;)I a
 net/minecraft/class_3534 method_15409 ()I a
 net/minecraft/class_3536 bcj

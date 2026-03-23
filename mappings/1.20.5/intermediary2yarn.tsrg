@@ -28025,10 +28025,10 @@ net/minecraft/class_2202 net/minecraft/block/BambooShootBlock
 	field_9897 SHAPE
 	method_9351 (Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;)V grow
 net/minecraft/class_3534 net/minecraft/util/profiler/ProfilerTiming
-	c visitCount
 	field_15737 totalUsagePercentage
 	field_15738 name
 	field_15739 parentSectionUsagePercentage
+	field_19384 visitCount
 	method_15408 (Lnet/minecraft/class_3534;)I compareTo
 	method_15409 ()I getColor
 net/minecraft/class_2203 net/minecraft/command/argument/NbtPathArgumentType

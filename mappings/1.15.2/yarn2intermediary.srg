@@ -16573,7 +16573,7 @@ FD: net/minecraft/util/profiler/ProfilerSystem/timeList net/minecraft/class_3533
 FD: net/minecraft/util/profiler/ProfilerTiming/name net/minecraft/class_3534/field_15738
 FD: net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage net/minecraft/class_3534/field_15739
 FD: net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage net/minecraft/class_3534/field_15737
-FD: net/minecraft/util/profiler/ProfilerTiming/visitCount net/minecraft/class_3534/c
+FD: net/minecraft/util/profiler/ProfilerTiming/visitCount net/minecraft/class_3534/field_19384
 FD: net/minecraft/util/registry/DefaultedRegistry/defaultId net/minecraft/class_2348/field_11014
 FD: net/minecraft/util/registry/DefaultedRegistry/defaultValue net/minecraft/class_2348/field_11015
 FD: net/minecraft/util/registry/Registry/CONTAINER net/minecraft/class_2378/field_17429

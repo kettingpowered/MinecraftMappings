@@ -16470,10 +16470,9 @@ FD: net/minecraft/util/profiler/ProfilerSystem/nameDurationMap net/minecraft/uti
 FD: net/minecraft/util/profiler/ProfilerSystem/path net/minecraft/util/profiling/ActiveProfiler/paths
 FD: net/minecraft/util/profiler/ProfilerSystem/tickStarted net/minecraft/util/profiling/ActiveProfiler/started
 FD: net/minecraft/util/profiler/ProfilerSystem/timeList net/minecraft/util/profiling/ActiveProfiler/startTimes
-FD: net/minecraft/util/profiler/ProfilerTiming/c net/minecraft/util/profiling/ResultField/count
 FD: net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage net/minecraft/util/profiling/ResultField/percentage
 FD: net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage net/minecraft/util/profiling/ResultField/globalPercentage
-FD: net/minecraft/util/profiler/ProfilerTiming/visitCount net/minecraft/util/profiling/ResultField/field_19384
+FD: net/minecraft/util/profiler/ProfilerTiming/visitCount net/minecraft/util/profiling/ResultField/count
 FD: net/minecraft/util/registry/DefaultedRegistry/defaultId net/minecraft/core/DefaultedRegistry/defaultKey
 FD: net/minecraft/util/registry/Registry/BLOCK_ENTITY net/minecraft/core/Registry/BLOCK_ENTITY_TYPE
 FD: net/minecraft/util/registry/Registry/CONTAINER net/minecraft/core/Registry/MENU

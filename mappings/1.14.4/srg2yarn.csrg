@@ -35105,11 +35105,10 @@ net/minecraft/potion/Potions field_204841_O field_8974
 net/minecraft/potion/Potions field_204842_P field_8964
 net/minecraft/potion/Potions field_222126_O field_8995
 net/minecraft/potion/Potions func_222125_a (Ljava/lang/String;Lnet/minecraft/potion/Potion;)Lnet/minecraft/potion/Potion; register
-net/minecraft/profiler/DataPoint field_19384 visitCount
 net/minecraft/profiler/DataPoint field_219943_a parentSectionUsagePercentage
 net/minecraft/profiler/DataPoint field_219944_b totalUsagePercentage
 net/minecraft/profiler/DataPoint field_219945_c name
-net/minecraft/profiler/DataPoint field_223511_c c
+net/minecraft/profiler/DataPoint field_223511_c visitCount
 net/minecraft/profiler/DataPoint func_219942_a ()I getColor
 net/minecraft/profiler/DataPoint net/minecraft/util/profiler/ProfilerTiming
 net/minecraft/profiler/DebugProfiler field_219901_a field_16268

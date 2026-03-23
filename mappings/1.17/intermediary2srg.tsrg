@@ -58123,10 +58123,10 @@ net/minecraft/class_2202 net/minecraft/src/C_1682_
 	b (Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Ljava/util/Random;)V m_7455_
 	method_9351 (Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;)V m_48972_
 net/minecraft/class_3534 net/minecraft/src/C_445_
-	c f_18609_
 	field_15737 f_18608_
 	field_15738 f_18610_
 	field_15739 f_18607_
+	field_19384 f_18609_
 	method_15408 (Lnet/minecraft/class_3534;)I compareTo
 	method_15409 ()I m_18616_
 net/minecraft/class_2203 net/minecraft/src/C_3685_

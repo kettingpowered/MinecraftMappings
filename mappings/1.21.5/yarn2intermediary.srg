@@ -32802,7 +32802,7 @@ FD: net/minecraft/util/profiler/ProfilerSystem/timeoutDisabled net/minecraft/cla
 FD: net/minecraft/util/profiler/ProfilerTiming/name net/minecraft/class_3534/field_15738
 FD: net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage net/minecraft/class_3534/field_15739
 FD: net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage net/minecraft/class_3534/field_15737
-FD: net/minecraft/util/profiler/ProfilerTiming/visitCount net/minecraft/class_3534/c
+FD: net/minecraft/util/profiler/ProfilerTiming/visitCount net/minecraft/class_3534/field_19384
 FD: net/minecraft/util/profiler/Profilers/ACTIVE_BUILTIN_PROFILER_COUNT net/minecraft/class_10209/field_54217
 FD: net/minecraft/util/profiler/Profilers/BUILTIN_PROFILER net/minecraft/class_10209/field_54216
 FD: net/minecraft/util/profiler/Profilers/TRACY_PROFILER net/minecraft/class_10209/field_54215

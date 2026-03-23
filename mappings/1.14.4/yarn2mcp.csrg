@@ -38618,12 +38618,11 @@ net/minecraft/util/profiler/ProfilerSystem nameDurationMap timesMap
 net/minecraft/util/profiler/ProfilerSystem net/minecraft/profiler/Profiler
 net/minecraft/util/profiler/ProfilerSystem path sectionList
 net/minecraft/util/profiler/ProfilerSystem timeList timeStack
-net/minecraft/util/profiler/ProfilerTiming c field_223511_c
 net/minecraft/util/profiler/ProfilerTiming getColor ()I getTextColor
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/profiler/DataPoint
 net/minecraft/util/profiler/ProfilerTiming parentSectionUsagePercentage relTime
 net/minecraft/util/profiler/ProfilerTiming totalUsagePercentage rootRelTime
-net/minecraft/util/profiler/ProfilerTiming visitCount field_19384
+net/minecraft/util/profiler/ProfilerTiming visitCount field_223511_c
 net/minecraft/util/profiler/ReadableProfiler a (Ljava/lang/String;)V startSection
 net/minecraft/util/profiler/ReadableProfiler a (Ljava/util/function/Supplier;)V startSection
 net/minecraft/util/profiler/ReadableProfiler b (Ljava/lang/String;)V endStartSection

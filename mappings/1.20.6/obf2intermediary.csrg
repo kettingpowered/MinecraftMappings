@@ -16147,6 +16147,7 @@ bnm a ()I method_15409
 bnm a (Lbnm;)I method_15408
 bnm a field_15739
 bnm b field_15737
+bnm c field_19384
 bnm d field_15738
 bnm net/minecraft/class_3534
 bnn a ()Lbnk; method_24339

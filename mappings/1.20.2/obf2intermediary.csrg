@@ -12567,6 +12567,7 @@ bdr a ()I method_15409
 bdr a (Lbdr;)I method_15408
 bdr a field_15739
 bdr b field_15737
+bdr c field_19384
 bdr d field_15738
 bdr net/minecraft/class_3534
 bds a ()Lbdp; method_24339

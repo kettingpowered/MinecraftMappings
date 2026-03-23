@@ -37494,7 +37494,7 @@ net/minecraft/profiler/DataPoint compareTo (Lnet/minecraft/profiler/DataPoint;)I
 net/minecraft/profiler/DataPoint field_219943_a field_15739
 net/minecraft/profiler/DataPoint field_219944_b field_15737
 net/minecraft/profiler/DataPoint field_219945_c field_15738
-net/minecraft/profiler/DataPoint field_223511_c c
+net/minecraft/profiler/DataPoint field_223511_c field_19384
 net/minecraft/profiler/DataPoint func_219942_a ()I method_15409
 net/minecraft/profiler/DataPoint net/minecraft/class_3534
 net/minecraft/profiler/DebugProfiler field_219901_a field_16268

@@ -13777,10 +13777,10 @@ FD: net/minecraft/class_3533/field_20345 net/minecraft/util/profiler/ProfilerSys
 FD: net/minecraft/class_3533/field_21818 net/minecraft/util/profiler/ProfilerSystem/locationInfos
 FD: net/minecraft/class_3533/field_21819 net/minecraft/util/profiler/ProfilerSystem/currentInfo
 FD: net/minecraft/class_3533/field_21961 net/minecraft/util/profiler/ProfilerSystem/timeGetter
-FD: net/minecraft/class_3534/c net/minecraft/util/profiler/ProfilerTiming/visitCount
 FD: net/minecraft/class_3534/field_15737 net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage
 FD: net/minecraft/class_3534/field_15738 net/minecraft/util/profiler/ProfilerTiming/name
 FD: net/minecraft/class_3534/field_15739 net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage
+FD: net/minecraft/class_3534/field_19384 net/minecraft/util/profiler/ProfilerTiming/visitCount
 FD: net/minecraft/class_3535/field_15740 net/minecraft/world/gen/surfacebuilder/WoodedBadlandsSurfaceBuilder/ORANGE_TERRACOTTA
 FD: net/minecraft/class_3535/field_15741 net/minecraft/world/gen/surfacebuilder/WoodedBadlandsSurfaceBuilder/WHITE_TERRACOTTA
 FD: net/minecraft/class_3535/field_15742 net/minecraft/world/gen/surfacebuilder/WoodedBadlandsSurfaceBuilder/TERRACOTTA

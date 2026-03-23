@@ -72027,6 +72027,7 @@ bgv net/minecraft/class_4758
 bgu net/minecraft/class_3534
 	a field_15739
 	b field_15737
+	c field_19384
 	d field_15738
 	a ()I method_15409
 	a (Lbgu;)I method_15408

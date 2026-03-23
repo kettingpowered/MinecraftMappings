@@ -6824,6 +6824,7 @@ apx a ()I method_15409
 apx a (Lapx;)I method_15408
 apx a field_15739
 apx b field_15737
+apx c field_19384
 apx d field_15738
 apx net/minecraft/class_3534
 apy a ()Lapv; method_24339

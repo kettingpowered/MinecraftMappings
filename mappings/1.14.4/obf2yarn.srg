@@ -5152,8 +5152,8 @@ FD: agj/e net/minecraft/util/profiler/DisableableProfiler/field_16271
 FD: agk/a net/minecraft/util/profiler/DummyProfiler/INSTANCE
 FD: ago/a net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage
 FD: ago/b net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage
+FD: ago/c net/minecraft/util/profiler/ProfilerTiming/visitCount
 FD: ago/d net/minecraft/util/profiler/ProfilerTiming/name
-FD: ago/field_19384 net/minecraft/util/profiler/ProfilerTiming/visitCount
 FD: agq/b net/minecraft/util/thread/ThreadExecutor/name
 FD: agq/c net/minecraft/util/thread/ThreadExecutor/LOGGER
 FD: agq/d net/minecraft/util/thread/ThreadExecutor/tasks

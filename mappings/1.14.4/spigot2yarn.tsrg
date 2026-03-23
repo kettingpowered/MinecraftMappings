@@ -19425,8 +19425,8 @@ net/minecraft/server/PathfinderGoalUseItem net/minecraft/entity/ai/goal/HoldInHa
 net/minecraft/server/MethodProfilerResultsField net/minecraft/util/profiler/ProfilerTiming
 	a parentSectionUsagePercentage
 	b totalUsagePercentage
+	c visitCount
 	d name
-	field_19384 visitCount
 	a ()I getColor
 	a (Lnet/minecraft/server/MethodProfilerResultsField;)I compareTo
 net/minecraft/server/LootItemConditionSurvivesExplosion net/minecraft/loot/condition/SurvivesExplosionLootCondition

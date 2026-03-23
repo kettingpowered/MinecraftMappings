@@ -45031,13 +45031,12 @@ net/minecraft/util/profiler/ProfilerSystem net/minecraft/profiler/Profiler
 net/minecraft/util/profiler/ProfilerSystem path field_76325_b
 net/minecraft/util/profiler/ProfilerSystem tickStarted field_219916_j
 net/minecraft/util/profiler/ProfilerSystem timeList field_76326_c
-net/minecraft/util/profiler/ProfilerTiming c field_223511_c
 net/minecraft/util/profiler/ProfilerTiming getColor ()I func_219942_a
 net/minecraft/util/profiler/ProfilerTiming name field_219945_c
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/profiler/DataPoint
 net/minecraft/util/profiler/ProfilerTiming parentSectionUsagePercentage field_219943_a
 net/minecraft/util/profiler/ProfilerTiming totalUsagePercentage field_219944_b
-net/minecraft/util/profiler/ProfilerTiming visitCount field_19384
+net/minecraft/util/profiler/ProfilerTiming visitCount field_223511_c
 net/minecraft/util/profiler/ReadableProfiler a (Ljava/lang/String;)V func_76320_a
 net/minecraft/util/profiler/ReadableProfiler a (Ljava/util/function/Supplier;)V func_194340_a
 net/minecraft/util/profiler/ReadableProfiler b (Ljava/lang/String;)V func_219895_b

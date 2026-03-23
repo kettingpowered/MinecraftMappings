@@ -39046,7 +39046,7 @@ net/minecraft/util/profiler/ProfilerTiming name field_15738
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/class_3534
 net/minecraft/util/profiler/ProfilerTiming parentSectionUsagePercentage field_15739
 net/minecraft/util/profiler/ProfilerTiming totalUsagePercentage field_15737
-net/minecraft/util/profiler/ProfilerTiming visitCount c
+net/minecraft/util/profiler/ProfilerTiming visitCount field_19384
 net/minecraft/util/profiler/ReadableProfiler getInfo (Ljava/lang/String;)Lnet/minecraft/util/profiler/ProfilerSystem$LocatedInfo; method_34696
 net/minecraft/util/profiler/ReadableProfiler getResult ()Lnet/minecraft/util/profiler/ProfileResult; method_16064
 net/minecraft/util/profiler/ReadableProfiler net/minecraft/class_3693

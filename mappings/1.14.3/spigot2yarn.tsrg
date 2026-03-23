@@ -18074,6 +18074,7 @@ net/minecraft/server/PathfinderGoalUseItem net/minecraft/entity/ai/goal/HoldInHa
 net/minecraft/server/MethodProfilerResultsField net/minecraft/util/profiler/ProfilerTiming
 	a parentSectionUsagePercentage
 	b totalUsagePercentage
+	c field_19384
 	d name
 	a ()I getColor
 	a (Lnet/minecraft/server/MethodProfilerResultsField;)I method_15408

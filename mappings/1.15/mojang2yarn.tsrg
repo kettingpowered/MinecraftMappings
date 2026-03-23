@@ -13270,7 +13270,7 @@ net/minecraft/server/level/ChunkMap$1 net/minecraft/server/world/ThreadedAnvilCh
 	this$0 field_17232
 	val$k field_17231
 net/minecraft/util/profiling/ResultField net/minecraft/util/profiler/ProfilerTiming
-	count c
+	count field_19384
 	globalPercentage totalUsagePercentage
 	percentage parentSectionUsagePercentage
 net/minecraft/client/sounds/SoundManager$Preparations$1 net/minecraft/client/sound/SoundManager$SoundList$1

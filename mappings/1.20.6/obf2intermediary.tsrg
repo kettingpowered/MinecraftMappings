@@ -79653,6 +79653,7 @@ cgi$b net/minecraft/class_1481$class_1483
 bnm net/minecraft/class_3534
 	a field_15739
 	b field_15737
+	c field_19384
 	d field_15738
 	a ()I method_15409
 	a (Lbnm;)I method_15408

@@ -20472,6 +20472,7 @@ byc a ()I method_15409
 byc a (Lbyc;)I method_15408
 byc a field_15739
 byc b field_15737
+byc c field_19384
 byc d field_15738
 byc net/minecraft/class_3534
 byd a ()Lbya; method_24339

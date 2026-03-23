@@ -47113,7 +47113,7 @@ net/minecraft/util/profiler/ProfilerSystem nameList field_76325_b
 net/minecraft/util/profiler/ProfilerSystem net/minecraft/profiler/Profiler
 net/minecraft/util/profiler/ProfilerSystem tickStarted field_219916_j
 net/minecraft/util/profiler/ProfilerSystem timeList field_76326_c
-net/minecraft/util/profiler/ProfilerTiming c field_223511_c
+net/minecraft/util/profiler/ProfilerTiming field_19384 field_223511_c
 net/minecraft/util/profiler/ProfilerTiming getColor ()I func_219942_a
 net/minecraft/util/profiler/ProfilerTiming name field_219945_c
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/profiler/DataPoint

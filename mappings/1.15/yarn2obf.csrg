@@ -39276,6 +39276,7 @@ net/minecraft/util/profiler/ProfilerSystem tickStarted k
 net/minecraft/util/profiler/ProfilerSystem timeList d
 net/minecraft/util/profiler/ProfilerTiming ain
 net/minecraft/util/profiler/ProfilerTiming compareTo (Lnet/minecraft/util/profiler/ProfilerTiming;)I a
+net/minecraft/util/profiler/ProfilerTiming field_19384 c
 net/minecraft/util/profiler/ProfilerTiming getColor ()I a
 net/minecraft/util/profiler/ProfilerTiming name d
 net/minecraft/util/profiler/ProfilerTiming parentSectionUsagePercentage a

@@ -31141,6 +31141,7 @@ net/minecraft/class_3534 net/minecraft/server/MethodProfilerResultsField
 	field_15737 b
 	field_15738 d
 	field_15739 a
+	field_19384 c
 	method_15408 (Lnet/minecraft/class_3534;)I a
 	method_15409 ()I a
 net/minecraft/class_2203 net/minecraft/server/ArgumentNBTKey

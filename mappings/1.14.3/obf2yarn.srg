@@ -4892,6 +4892,7 @@ FD: agg/e net/minecraft/util/profiler/DisableableProfiler/field_16271
 FD: agh/a net/minecraft/util/profiler/DummyProfiler/INSTANCE
 FD: agl/a net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage
 FD: agl/b net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage
+FD: agl/c net/minecraft/util/profiler/ProfilerTiming/field_19384
 FD: agl/d net/minecraft/util/profiler/ProfilerTiming/name
 FD: agn/b net/minecraft/util/ThreadExecutor/name
 FD: agn/c net/minecraft/util/ThreadExecutor/LOGGER

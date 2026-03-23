@@ -44264,10 +44264,10 @@ net/minecraft/class_2202 net/minecraft/world/level/block/BambooSaplingBlock
 	a (Lnet/minecraft/class_3218;Ljava/util/Random;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V performBonemeal
 	method_9351 (Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;)V growBamboo
 net/minecraft/class_3534 net/minecraft/util/profiling/ResultField
-	c count
 	field_15737 globalPercentage
 	field_15738 name
 	field_15739 percentage
+	field_19384 count
 	method_15408 (Lnet/minecraft/class_3534;)I compareTo
 	method_15409 ()I getColor
 net/minecraft/class_2203 net/minecraft/commands/arguments/NbtPathArgument

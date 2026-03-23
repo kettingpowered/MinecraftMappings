@@ -16192,6 +16192,7 @@ bnh a ()I method_15409
 bnh a (Lbnh;)I method_15408
 bnh a field_15739
 bnh b field_15737
+bnh c field_19384
 bnh d field_15738
 bnh net/minecraft/class_3534
 bni a ()Lbnf; method_24339

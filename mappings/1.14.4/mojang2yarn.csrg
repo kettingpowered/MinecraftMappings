@@ -21192,8 +21192,7 @@ net/minecraft/util/profiling/ProfileResults saveResults (Ljava/io/File;)Z save
 net/minecraft/util/profiling/ProfilerFiller net/minecraft/util/profiler/Profiler
 net/minecraft/util/profiling/ProfilerFiller popPush (Ljava/lang/String;)V swap
 net/minecraft/util/profiling/ProfilerFiller popPush (Ljava/util/function/Supplier;)V swap
-net/minecraft/util/profiling/ResultField count c
-net/minecraft/util/profiling/ResultField field_19384 visitCount
+net/minecraft/util/profiling/ResultField count visitCount
 net/minecraft/util/profiling/ResultField globalPercentage totalUsagePercentage
 net/minecraft/util/profiling/ResultField net/minecraft/util/profiler/ProfilerTiming
 net/minecraft/util/profiling/ResultField percentage parentSectionUsagePercentage

@@ -29691,7 +29691,7 @@ FD: net/minecraft/util/profiler/ProfilerSystem/timeList net/minecraft/class_3533
 FD: net/minecraft/util/profiler/ProfilerTiming/name net/minecraft/class_3534/field_15738
 FD: net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage net/minecraft/class_3534/field_15739
 FD: net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage net/minecraft/class_3534/field_15737
-FD: net/minecraft/util/profiler/ProfilerTiming/visitCount net/minecraft/class_3534/c
+FD: net/minecraft/util/profiler/ProfilerTiming/visitCount net/minecraft/class_3534/field_19384
 FD: net/minecraft/util/profiler/RecordDumper/DEBUG_PROFILING_DIRECTORY net/minecraft/class_5971/field_29616
 FD: net/minecraft/util/profiler/RecordDumper/DEVIATIONS_DIRECTORY net/minecraft/class_5971/field_32678
 FD: net/minecraft/util/profiler/RecordDumper/FILE_NAME net/minecraft/class_5971/field_32679

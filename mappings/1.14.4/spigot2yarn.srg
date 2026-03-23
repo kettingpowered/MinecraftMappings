@@ -17492,8 +17492,8 @@ FD: net/minecraft/server/MethodProfiler/k net/minecraft/util/profiler/ProfilerSy
 FD: net/minecraft/server/MethodProfilerResultsEmpty/a net/minecraft/util/profiler/EmptyProfileResult/INSTANCE
 FD: net/minecraft/server/MethodProfilerResultsField/a net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage
 FD: net/minecraft/server/MethodProfilerResultsField/b net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage
+FD: net/minecraft/server/MethodProfilerResultsField/c net/minecraft/util/profiler/ProfilerTiming/visitCount
 FD: net/minecraft/server/MethodProfilerResultsField/d net/minecraft/util/profiler/ProfilerTiming/name
-FD: net/minecraft/server/MethodProfilerResultsField/field_19384 net/minecraft/util/profiler/ProfilerTiming/visitCount
 FD: net/minecraft/server/MethodProfilerResultsFilled/a net/minecraft/util/profiler/ProfileResultImpl/LOGGER
 FD: net/minecraft/server/MethodProfilerResultsFilled/b net/minecraft/util/profiler/ProfileResultImpl/timings
 FD: net/minecraft/server/MethodProfilerResultsFilled/c net/minecraft/util/profiler/ProfileResultImpl/field_19382

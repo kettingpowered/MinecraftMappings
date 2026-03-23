@@ -1226,6 +1226,7 @@ agl a ()I method_15409
 agl a (Lagl;)I method_15408
 agl a field_15739
 agl b field_15737
+agl c field_19384
 agl d field_15738
 agl net/minecraft/class_3534
 agn a (Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture; method_5382

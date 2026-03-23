@@ -80642,7 +80642,7 @@ net/minecraft/src/C_4459_ net/minecraft/class_1005
 net/minecraft/src/C_445_ compareTo (Lnet/minecraft/src/C_445_;)I method_15408
 net/minecraft/src/C_445_ f_18607_ field_15739
 net/minecraft/src/C_445_ f_18608_ field_15737
-net/minecraft/src/C_445_ f_18609_ c
+net/minecraft/src/C_445_ f_18609_ field_19384
 net/minecraft/src/C_445_ f_18610_ field_15738
 net/minecraft/src/C_445_ m_18616_ ()I method_15409
 net/minecraft/src/C_445_ net/minecraft/class_3534

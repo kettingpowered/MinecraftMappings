@@ -18574,6 +18574,7 @@ btv a ()I method_15409
 btv a (Lbtv;)I method_15408
 btv a field_15739
 btv b field_15737
+btv c field_19384
 btv d field_15738
 btv net/minecraft/class_3534
 btw a ()Lbtt; method_24339

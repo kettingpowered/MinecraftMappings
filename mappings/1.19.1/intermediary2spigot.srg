@@ -22241,6 +22241,7 @@ FD: net/minecraft/class_3533/field_33873 net/minecraft/util/profiling/MethodProf
 FD: net/minecraft/class_3534/field_15737 net/minecraft/util/profiling/MethodProfilerResultsField/b
 FD: net/minecraft/class_3534/field_15738 net/minecraft/util/profiling/MethodProfilerResultsField/d
 FD: net/minecraft/class_3534/field_15739 net/minecraft/util/profiling/MethodProfilerResultsField/a
+FD: net/minecraft/class_3534/field_19384 net/minecraft/util/profiling/MethodProfilerResultsField/c
 FD: net/minecraft/class_3537/field_15744 net/minecraft/world/level/levelgen/synth/NoiseGeneratorOctaves/b
 FD: net/minecraft/class_3537/field_20659 net/minecraft/world/level/levelgen/synth/NoiseGeneratorOctaves/e
 FD: net/minecraft/class_3537/field_20660 net/minecraft/world/level/levelgen/synth/NoiseGeneratorOctaves/f

@@ -23637,10 +23637,9 @@ net/minecraft/client/render/entity/feature/SlimeOverlayFeatureRenderer net/minec
 	a ()Z shouldCombineTextures
 	a (Lnet/minecraft/entity/Entity;FFFFFFF)V render
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/profiler/DataPoint
-	c field_223511_c
 	parentSectionUsagePercentage relTime
 	totalUsagePercentage rootRelTime
-	visitCount field_19384
+	visitCount field_223511_c
 	getColor ()I getTextColor
 net/minecraft/client/gl/GlDebug net/minecraft/client/renderer/GlDebugTextUtils
 	ARB_VERBOSITY_LEVELS field_209258_i

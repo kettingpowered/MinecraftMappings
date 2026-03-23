@@ -58032,6 +58032,7 @@ net/minecraft/util/profiling/MethodProfilerResult a ()I method_15409
 net/minecraft/util/profiling/MethodProfilerResult a (Lnet/minecraft/util/profiling/MethodProfilerResult;)I method_15408
 net/minecraft/util/profiling/MethodProfilerResult a field_15739
 net/minecraft/util/profiling/MethodProfilerResult b field_15737
+net/minecraft/util/profiling/MethodProfilerResult c field_19384
 net/minecraft/util/profiling/MethodProfilerResult d field_15738
 net/minecraft/util/profiling/MethodProfilerResult net/minecraft/class_3534
 net/minecraft/util/profiling/MethodProfilerResults a ()Lnet/minecraft/util/profiling/Profiler; method_64146

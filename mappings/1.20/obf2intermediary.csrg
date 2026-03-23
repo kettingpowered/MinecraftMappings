@@ -11479,6 +11479,7 @@ bap a ()I method_15409
 bap a (Lbap;)I method_15408
 bap a field_15739
 bap b field_15737
+bap c field_19384
 bap d field_15738
 bap net/minecraft/class_3534
 baq a ()Lban; method_24339

@@ -25016,6 +25016,7 @@ net/minecraft/server/PathfinderGoalUseItem net/minecraft/class_3993
 net/minecraft/server/MethodProfilerResultsField net/minecraft/class_3534
 	a field_15739
 	b field_15737
+	c field_19384
 	d field_15738
 	a ()I method_15409
 	a (Lnet/minecraft/server/MethodProfilerResultsField;)I method_15408

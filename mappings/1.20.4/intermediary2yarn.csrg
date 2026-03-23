@@ -25171,10 +25171,10 @@ net/minecraft/class_3533$class_4746 field_21822 counts
 net/minecraft/class_3533$class_4746 field_33874 maxTime
 net/minecraft/class_3533$class_4746 field_33875 minTime
 net/minecraft/class_3533$class_4746 net/minecraft/util/profiler/ProfilerSystem$LocatedInfo
-net/minecraft/class_3534 c visitCount
 net/minecraft/class_3534 field_15737 totalUsagePercentage
 net/minecraft/class_3534 field_15738 name
 net/minecraft/class_3534 field_15739 parentSectionUsagePercentage
+net/minecraft/class_3534 field_19384 visitCount
 net/minecraft/class_3534 method_15408 (Lnet/minecraft/class_3534;)I compareTo
 net/minecraft/class_3534 method_15409 ()I getColor
 net/minecraft/class_3534 net/minecraft/util/profiler/ProfilerTiming

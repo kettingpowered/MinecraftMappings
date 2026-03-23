@@ -51818,7 +51818,7 @@ net/minecraft/util/profiler/ProfilerTiming net/minecraft/class_3534
 	name field_15738
 	parentSectionUsagePercentage field_15739
 	totalUsagePercentage field_15737
-	visitCount c
+	visitCount field_19384
 	compareTo (Lnet/minecraft/util/profiler/ProfilerTiming;)I method_15408
 	getColor ()I method_15409
 net/minecraft/unused/packageinfo/PackageInfo6667 net/minecraft/class_6667

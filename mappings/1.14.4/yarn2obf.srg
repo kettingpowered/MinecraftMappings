@@ -20887,7 +20887,7 @@ FD: net/minecraft/util/profiler/ProfilerSystem/timeList agg/d
 FD: net/minecraft/util/profiler/ProfilerTiming/name ago/d
 FD: net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage ago/a
 FD: net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage ago/b
-FD: net/minecraft/util/profiler/ProfilerTiming/visitCount ago/field_19384
+FD: net/minecraft/util/profiler/ProfilerTiming/visitCount ago/c
 FD: net/minecraft/util/registry/DefaultedRegistry/defaultId fa/R
 FD: net/minecraft/util/registry/DefaultedRegistry/defaultValue fa/S
 FD: net/minecraft/util/registry/Registry/ACTIVITY fn/Q

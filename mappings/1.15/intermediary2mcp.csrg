@@ -35900,10 +35900,10 @@ net/minecraft/class_3533 method_21718 (J)Ljava/lang/Object; func_225433_a
 net/minecraft/class_3533 method_21719 ()Ljava/lang/Object; func_225431_e
 net/minecraft/class_3533 method_21720 ()Ljava/lang/Object; func_225432_f
 net/minecraft/class_3533 net/minecraft/profiler/Profiler
-net/minecraft/class_3534 c field_223511_c
 net/minecraft/class_3534 field_15737 rootRelTime
 net/minecraft/class_3534 field_15738 name
 net/minecraft/class_3534 field_15739 relTime
+net/minecraft/class_3534 field_19384 field_223511_c
 net/minecraft/class_3534 method_15408 (Lnet/minecraft/class_3534;)I compareTo
 net/minecraft/class_3534 method_15409 ()I getTextColor
 net/minecraft/class_3534 net/minecraft/profiler/DataPoint

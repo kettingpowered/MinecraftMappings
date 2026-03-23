@@ -26602,7 +26602,7 @@ FIELD	axu	Lunk;	bi	bi	bi	field_28993	field_28993	DEEPSLATE_ORE_REPLACEABLES
 FIELD	hdw$a	Lunk;	c	c	c	comp_1055	comp_1055	isUvLocked
 FIELD	frb	Lunk;	f	f	f	field_2272	minX	left
 FIELD	eq	Lunk;	l	l	l	field_9791	READER_INVALID_ESCAPE	READER_INVALID_ESCAPE
-FIELD	bpu	Lunk;	c	c	c	c	visitCount	count
+FIELD	bpu	Lunk;	c	c	c	field_19384	visitCount	count
 FIELD	dvz	Lunk;	d	d	d	field_47096	PLACEMENT_PRIORITY_KEY	PLACEMENT_PRIORITY
 FIELD	acu	Lunk;	e	e	e	field_33299	CRIT	CRITICAL_HIT
 FIELD	drj$a	Lunk;	b	b	b	field_37623	CODEC	CODEC
@@ -49036,8 +49036,8 @@ METHOD	ezw	()Ljq;	c	c	c	comp_1876	comp_1876	block
 METHOD	eyl	()Leyd;	b	b	b	b	b	getType
 METHOD	ws	(D)Lws;	a	a	a	method_52940	writeDouble	writeDouble
 METHOD	amh	(Lah;)Laj;	b	b	b	method_12882	getProgress	getOrStartProgress
-METHOD	hhl	(DD)V	a	a	a	a	a	onMouse
 METHOD	fxr	(Lcuy;)Z	a	a	a	a	a	isCraftingSlot
+METHOD	hhl	(DD)V	a	a	a	a	a	onMouse
 METHOD	nn	(Ldkl;)Lewt$a;	aT	aT	aT	method_16311	method_16311	lambda$generate$4
 METHOD	frw	(I)Lfrw;	b	b	b	method_46469	marginLeft	paddingLeft
 METHOD	bmg	(Lcom/mojang/datafixers/schemas/Schema;)Lcom/mojang/datafixers/types/templates/TypeTemplate;	c	c	c	method_38839	method_38839	lambda$registerTypes$5
@@ -49358,8 +49358,8 @@ METHOD	aon	(Lew;)I	b	b	b	method_38617	executeStop	stopJfr
 METHOD	bkb	(Lcom/mojang/serialization/Dynamic;)Lcom/mojang/serialization/Dynamic;	a	a	a	method_24323	updateWallProperties	upgradeBlockStateTag
 METHOD	gfm	()[Lgfm;	b	b	b	method_45739	method_45739	$values
 METHOD	dxt$a	(Ldgm;Ljh;)Z	b	b	b	method_26208	hasEmissiveLighting	emissiveRendering
-METHOD	fee$b	()I	d	d	d	d	d	getUsedCount
 METHOD	cgg	(Lash;Lbwf;)V	a	a	a	a	a	doTick
+METHOD	fee$b	()I	d	d	d	d	d	getUsedCount
 METHOD	fqb	()Z	aN_	aN_	aN_	aN_	aN_	isFocused
 METHOD	tr	(Ljava/lang/Runnable;)V	a	a	a	method_35993	addFinalTask	succeedIf
 METHOD	dkw	(Lcpw;Ldhi;Ljh;Z)V	a	a	a	method_9714	playClickSound	playSound
@@ -49561,8 +49561,8 @@ METHOD	ue	(Lasi;)Z	a	a	a	method_32249	method_32249	lambda$say$1
 METHOD	cvf	(I)Lcxo;	b	b	b	b	b	removeItemNoUpdate
 METHOD	dyj	()Laxe;	h	h	h	comp_1291	comp_1291	doorClose
 METHOD	drs	(Ldhh;Ldxu;Ljh;Lbvj;F)V	a	a	a	a	a	fallOn
-METHOD	fqr	(Lfnr;Lfnp;J)V	a	a	a	a	a	render
 METHOD	dki	(Ldxu;Lash;Ljh;Lbam;)V	a	a	a	a	a	tick
+METHOD	fqr	(Lfnr;Lfnp;J)V	a	a	a	a	a	render
 METHOD	bpf	()I	c	c	c	c	c	mark
 METHOD	aqa	(Lcom/mojang/brigadier/context/CommandContext;)I	a	a	a	method_13683	method_13683	lambda$register$1
 METHOD	ckk	(Lbvq;Ldhi;Lbvp;Ljh;Lbam;)Z	c	c	c	method_55002	canSpawn	checkZombieHorseSpawnRules
@@ -52127,8 +52127,8 @@ METHOD	fcz	(Lzl;)V	b	b	b	method_55406	setNumberFormat	numberFormat
 METHOD	fwl	(Lfnr;IIIIILalz;)V	a	a	a	method_47946	render	renderTooltipBackground
 METHOD	aqy	()Z	bl	bl	bl	bl	bl	logIPs
 METHOD	dge	()V	l	l	l	method_8244	use	increaseUses
-METHOD	iv	(Lis$a;Lws;)V	a	a	a	a	a	serializeToNetwork
 METHOD	fet	(I)Lfep;	a	a	a	a	a	getGlyph
+METHOD	iv	(Lis$a;Lws;)V	a	a	a	a	a	serializeToNetwork
 METHOD	fkg	()V	G	G	G	method_21442	onTrailer	onTrailer
 METHOD	bfn	(Lcom/mojang/serialization/Dynamic;)Lcom/mojang/serialization/Dynamic;	t	t	t	method_28195	method_28195	lambda$updateFox$5
 METHOD	cjt	(Lcpw;Lcxo;)V	b	b	b	method_41393	decrementItem	usePlayerItem
@@ -53039,8 +53039,8 @@ METHOD	hbb	()V	a	a	a	method_23209	setupOverlayColor	setupOverlayColor
 METHOD	cqr	(Ldhh;Lbvj;Lfbx;Lfbx;Lfbs;Ljava/util/function/Predicate;)Lfbu;	a	a	a	method_18077	getEntityCollision	getEntityHitResult
 METHOD	eox$a	()Ldgn;	e	e	e	comp_309	comp_309	chunkPos
 METHOD	cml	()Laxe;	o_	o_	o_	o_	o_	getDeathSound
-METHOD	dsg	()Lcwl;	b	b	b	b	b	getColor
 METHOD	coa	(B)V	b	b	b	b	b	handleEntityEvent
+METHOD	dsg	()Lcwl;	b	b	b	b	b	getColor
 METHOD	cnc	(Lcwl;)Ljava/lang/Byte;	a	a	a	method_47879	method_47879	lambda$setVariant$2
 METHOD	ftu	(Lxv;)V	c	c	c	c	c	progressStage
 METHOD	ecf	(Ljava/lang/Object;)V	a	a	a	method_43029	updateLoadStatus	onSectionChange
@@ -53100,8 +53100,8 @@ METHOD	gpt	(Lfgr;Lglk;Leuk;FZZDDD)V	a	a	a	method_23118	drawPath	renderPath
 METHOD	bl	()Ljava/util/Optional;	c	c	c	comp_1742	comp_1742	sourceEntity
 METHOD	eq	(Ljava/lang/Object;Ljava/lang/Object;)Lcom/mojang/brigadier/Message;	a	a	a	method_18479	method_18479	lambda$static$7
 METHOD	bvj	(Ldxu;)Z	d	d	d	method_49790	shouldPlayAmethystChimeSound	shouldPlayAmethystStepSound
-METHOD	dzy	(Ldim;Ldis$f;)V	a	a	a	a	a	fillBiomesFromNoise
 METHOD	asi$2	(Lctb;II)V	a	a	a	a	a	dataChanged
+METHOD	dzy	(Ldim;Ldis$f;)V	a	a	a	a	a	fillBiomesFromNoise
 METHOD	dwj	(Ldwk;)V	e	e	e	method_49851	method_49851	lambda$loadAdditional$2
 METHOD	dpo$b	(Ldxu;Ldgm;Ljh;Ljm;)Ldxu;	a	a	a	method_41459	getStateWithDirection	getStateForPlacement
 METHOD	ecf	(Ljava/lang/Object;)V	e	e	e	method_31800	startTicking	onTickingStart
@@ -53241,8 +53241,8 @@ METHOD	oj	(Ldyw;)Loj$a;	a	a	a	method_25783	create	property
 METHOD	fza	()V	aP_	aP_	aP_	aP_	aP_	onClose
 METHOD	coj	(Lash;)V	g	g	g	method_24694	zombify	finishConversion
 METHOD	gfs	()Z	b	b	b	method_54136	isReady	levelReady
-METHOD	fyg$a	(III)Z	a	a	a	a	a	keyPressed
 METHOD	zk$1	()Lzt;	b	b	b	b	b	streamCodec
+METHOD	fyg$a	(III)Z	a	a	a	a	a	keyPressed
 METHOD	bpm	()J	c	c	c	c	c	getEndTimeNano
 METHOD	aah	()Lxd$a;	a	a	a	method_56447	buildFactory	buildUnbound
 METHOD	dzk$c	()D	a	a	a	method_27356	getCenterX	getCenterX
@@ -53980,8 +53980,8 @@ METHOD	ezp	(Ljava/lang/Iterable;Ljava/util/function/Function;)Lezp;	a_	a_	a_	met
 METHOD	fbg$a	(Lux;)Lfbi;	b	b	b	b	b	deserialize
 METHOD	fpx	(D)Ljava/lang/String;	a	a	a	a	a	toDisplayString
 METHOD	fzd	(Lfyw;Lemm;)V	a	a	a	method_41858	method_41858	lambda$static$0
-METHOD	iz	(Lis$a;Lws;)V	a	a	a	a	a	serializeToNetwork
 METHOD	coc	(B)V	b	b	b	b	b	handleEntityEvent
+METHOD	iz	(Lis$a;Lws;)V	a	a	a	a	a	serializeToNetwork
 METHOD	hd$b	()Ljava/util/stream/Stream;	d	d	d	method_58514	streamSubPredicateIds	listPredicateTypes
 METHOD	bvq	(DDD)Lfbs;	a	a	a	method_58629	getSpawnBox	getSpawnAABB
 METHOD	eco	(Ljava/util/UUID;)Ljava/lang/Integer;	a	a	a	method_42678	method_42678	lambda$getId$11
@@ -54598,8 +54598,8 @@ METHOD	eys	()Leyd;	b	b	b	b	b	getType
 METHOD	cik	()Lfbx;	cT	cT	cT	cT	cT	getLeashOffset
 METHOD	bjt	(Lcom/mojang/serialization/Dynamic;)Lcom/mojang/serialization/Dynamic;	b	b	b	method_58610	fix	moveToConfigTag
 METHOD	cbl	(Ljava/util/function/Predicate;Lash;Lbwf;J)Z	a	a	a	method_47226	method_47226	lambda$triggerIf$2
-METHOD	fuu	()V	aT_	aT_	aT_	aT_	aT_	init
 METHOD	dek	(Lash;ILddx;Lbvj;Lfbx;)V	a	a	a	a	a	apply
+METHOD	fuu	()V	aT_	aT_	aT_	aT_	aT_	init
 METHOD	fpe	(Lfnr;Lhcl;III)V	a	a	a	method_52722	draw	draw
 METHOD	cjt	(Lbtz;)Laxe;	e	e	e	e	e	getHurtSound
 METHOD	fox	()D	l	l	l	method_44408	getMaxLinesWithoutOverflow	getDisplayableLineCount
@@ -54758,8 +54758,8 @@ METHOD	cwy	(Ldbh;)Lbti;	a	a	a	a	a	useOn
 METHOD	crw	()Ljz;	B	B	B	B	B	getItemStacks
 METHOD	fhh	(Ljava/lang/String;)Ljava/lang/String;	c	c	c	method_21011	url	url
 METHOD	dqn	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
-METHOD	dtb	(Ldxu;)Letw;	b_	b_	b_	b_	b_	getFluidState
 METHOD	dmi	(Ldhh;Lbam;Ljh;Ldxu;)Z	a	a	a	a	a	isBonemealSuccess
+METHOD	dtb	(Ldxu;)Letw;	b_	b_	b_	b_	b_	getFluidState
 METHOD	gfh	(Lacb;)V	a	a	a	a	a	handleRegistryData
 METHOD	hdz$a	()Ljava/util/Map;	e	e	e	comp_1061	comp_1061	atlasPreparations
 METHOD	cag	(Lbwf;Lcpi;)V	a	a	a	method_19027	setupOffers	findItemsToDisplay
@@ -55086,8 +55086,8 @@ METHOD	apq	(Lxv;)Lxv;	a	a	a	method_52075	method_52075	lambda$register$1
 METHOD	deo	()Ldef;	d	d	d	comp_2719	comp_2719	amount
 METHOD	dqt	(Ldxv$a;)V	a	a	a	a	a	createBlockStateDefinition
 METHOD	aab	(Laac;Ljava/util/function/Consumer;)V	a	a	a	method_48327	forEachPacket	unbundlePacket
-METHOD	clu	(Lash;Lbvj;)V	a	a	a	a	a	dropItem
 METHOD	vf$1	()Z	d	d	d	d	d	isValue
+METHOD	clu	(Lash;Lbvj;)V	a	a	a	a	a	dropItem
 METHOD	ctg	(Ljq;)I	a	a	a	method_53173	getRawIdForStatusEffect	encodeEffect
 METHOD	cpi	(Lalg$a;)V	a	a	a	a	a	defineSynchedData
 METHOD	bpq	()J	g	g	g	method_16071	getTimeSpan	getNanoDuration
@@ -55253,8 +55253,8 @@ METHOD	bvh$l	(Lux;Lvu;)V	a	a	a	method_48906	method_48906	lambda$addAdditionalSav
 METHOD	ae	(Ljava/util/List;I)Lcom/mojang/serialization/DataResult;	a	a	a	method_33141	decodeFixedLengthList	fixedSize
 METHOD	al	(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App;	a	a	a	method_54930	method_54930	lambda$static$0
 METHOD	dvc	(Lduw$b;)V	a	a	a	a	a	applyImplicitComponents
-METHOD	gfj	()Lbtr;	t	t	t	t	t	tickRateManager
 METHOD	ctc	(ZZLdci;Lash;Lcpv;)Lcuq$a;	a	a	a	a	a	handlePlacement
+METHOD	gfj	()Lbtr;	t	t	t	t	t	tickRateManager
 METHOD	afm	(Lxb;)V	a	a	a	a	a	handle
 METHOD	ae	()Ljava/util/function/Predicate;	l	l	l	method_61211	or	anyOf
 METHOD	ayr	()I	a	a	a	method_52450	getArrayLength	capacity
@@ -55453,8 +55453,8 @@ METHOD	fos	(Lfsc;)V	a	a	a	a	a	updateWidgetNarration
 METHOD	ahb	()F	b	b	b	comp_2014	comp_2014	tickRate
 METHOD	bjn	(Lcom/mojang/datafixers/Typed;)Lcom/mojang/datafixers/Typed;	a	a	a	method_23662	method_23662	lambda$makeRule$0
 METHOD	dgn	()I	i	i	i	method_17886	getRegionZ	getRegionZ
-METHOD	gjw	(Lfgv;Lflo;F)V	a	a	a	a	a	render
 METHOD	edk	(IILedp$a;Ldhj;Leed;)I	a	a	a	a	a	getBaseHeight
+METHOD	gjw	(Lfgv;Lflo;F)V	a	a	a	a	a	render
 METHOD	cnm	(Z)V	z	z	z	method_7192	setDrinking	setUsingItem
 METHOD	nn	(Lnn;Ldkl;)Lewt$a;	bd	bd	bd	method_49941	method_49941	lambda$generate$64
 METHOD	gck	(Lgzc;)V	a	a	a	method_33686	setAngles	setupAnim
@@ -55598,8 +55598,8 @@ METHOD	eoj	(Leob;)Leob;	a	a	a	method_41609	expandBoxIfShouldAdaptNoise	adjustBou
 METHOD	cmi	()I	cE	cE	cE	cE	cE	getMaxFallDistance
 METHOD	gbf	()Lget;	a	a	a	method_62079	getTexturedModelData	createBodyLayer
 METHOD	czg$a	()Z	b	b	b	b	b	isCreative
-METHOD	gkg	()V	r	r	r	r	r	rideTick
 METHOD	dnm	(Ldxu;Ldhh;Ljh;Ldxu;Z)V	b	b	b	b	b	onPlace
+METHOD	gkg	()V	r	r	r	r	r	rideTick
 METHOD	dxf	(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App;	a	a	a	method_56770	method_56770	lambda$static$4
 METHOD	gvf	(Lfgr;Lglk;ILgxk;FF)V	a	a	a	method_16047	render	render
 METHOD	btz	()Lbvj;	c	c	c	method_5526	getSource	getDirectEntity
@@ -56516,8 +56516,8 @@ METHOD	ae	(Ljava/lang/String;Ljava/util/concurrent/atomic/AtomicInteger;ZLjava/l
 METHOD	gbo	(Lgyd;)V	a	a	a	method_18332	setAngles	setupAnim
 METHOD	fhc	(Lfhc;)Lfnp;	h	h	h	method_36830	method_36830	access$700
 METHOD	gqo	(Lbwf;Lgys;F)V	a	a	a	a	a	extractRenderState
-METHOD	cio$a	()D	l	l	l	l	l	getFollowDistance
 METHOD	cnp	(Z)V	a	a	a	a	a	setBaby
+METHOD	cio$a	()D	l	l	l	l	l	getFollowDistance
 METHOD	bvj	()Z	cp	cp	cp	method_5767	isInvisible	isInvisible
 METHOD	dic	(Lcxo;Ljava/util/List;Ljava/lang/String;)V	a	a	a	method_55121	appendSpawnDataToTooltip	appendHoverText
 METHOD	chj	(Ldgn;Ljava/lang/Integer;)Ljava/util/Optional;	a	a	a	method_19124	method_19124	lambda$getInChunk$5
@@ -58380,8 +58380,8 @@ METHOD	ob	(Ldkl;)V	e	e	e	method_25619	registerMirrorable	createRotatedMirroredVa
 METHOD	bfa	(Lcom/mojang/serialization/Dynamic;)Lcom/mojang/serialization/Dynamic;	a	a	a	method_15723	renameMotive	fixTag
 METHOD	hbk	()F	k	k	k	method_23842	getAnimationFrameDelta	uvShrinkRatio
 METHOD	aqp	(F)Lxv;	a	a	a	method_52153	method_52153	lambda$setDamageAmount$12
-METHOD	gmb$1	(ZLjava/lang/String;)Ljava/lang/String;	a	a	a	a	a	applyImport
 METHOD	dtu	(Ldxu;Lash;Ljh;Lbam;)V	b	b	b	b	b	randomTick
+METHOD	gmb$1	(ZLjava/lang/String;)Ljava/lang/String;	a	a	a	a	a	applyImport
 METHOD	avx	(Ljava/io/InputStream;)Lavx;	a	a	a	method_43042	create	fromJsonStream
 METHOD	bwh	(Lcxo;Lcxo;)Z	b	b	b	method_26320	prefersNewDamageableItem	canReplaceEqualItem
 METHOD	xu	([Lxv;)Lxv;	b	b	b	method_37110	joinLines	joinLines
@@ -58619,8 +58619,8 @@ METHOD	iv	(Lws;)Liv$a;	a	a	a	method_42001	fromPacket	deserializeFromNetwork
 METHOD	fly$a	()I	a	a	a	comp_895	comp_895	addedTime
 METHOD	aog	(ZILaly;Ldgn;Ldgn;)Lxv;	a	a	a	method_51982	method_51982	lambda$changeForceLoad$16
 METHOD	exb	(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App;	c	c	c	method_53286	method_53286	lambda$static$1
-METHOD	dmj	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
 METHOD	fo$d	(Lvu;)I	a	a	a	a	a	removeTag
+METHOD	dmj	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
 METHOD	ahh	()Z	g	g	g	comp_1559	comp_1559	isFlat
 METHOD	hm	()Lcom/mojang/brigadier/StringReader;	g	g	g	method_9835	getReader	getReader
 METHOD	dgy	(Lece;Lfbs;Ljava/util/function/Predicate;)Ljava/util/List;	a	a	a	method_18023	getEntitiesByType	getEntities
@@ -60494,8 +60494,8 @@ METHOD	gfj$b	(Ljava/lang/Object;)V	g	g	g	g	g	onCreated
 METHOD	gks	()V	a	a	a	method_62166	scheduleTerrainUpdate	markForRebuild
 METHOD	eb	(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App;	a	a	a	method_53234	method_53234	lambda$static$0
 METHOD	cil$k	()V	d	d	d	d	d	start
-METHOD	dmn	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
 METHOD	dfb	(ILbam;F)F	a	a	a	a	a	process
+METHOD	dmn	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
 METHOD	gfe$a	(Lai;Laj;)V	a	a	a	method_2865	setProgress	onUpdateAdvancementProgress
 METHOD	aou	(Lcom/mojang/brigadier/context/CommandContext;Ljava/util/Collection;Lyl;)V	a	a	a	method_45153	method_45153	lambda$register$0
 METHOD	fmj$b	(Ljava/lang/String;Lfmi;)V	a	a	a	method_42570	accept	process
@@ -60925,8 +60925,8 @@ METHOD	fzf$c	()Ljava/util/function/BooleanSupplier;	c	c	c	comp_1262	getter	state
 METHOD	goo	()Lglu;	d	d	d	method_34589	getLayer	renderType
 METHOD	dpb	(Ldxu;)Ldqu;	a_	a_	a_	a_	a_	getRenderShape
 METHOD	apc	(Ljava/lang/Object;)Lcom/mojang/brigadier/Message;	a	a	a	method_13511	method_13511	lambda$static$0
-METHOD	gpl$b	(Lash;Ljq;Lecq$a;Lfbx;)Z	a	a	a	a	a	handleGameEvent
 METHOD	cbu	(Lash;Lbwf;J)V	d	d	d	d	d	start
+METHOD	gpl$b	(Lash;Ljq;Lecq$a;Lfbx;)Z	a	a	a	a	a	handleGameEvent
 METHOD	caw	(Lorg/apache/commons/lang3/mutable/MutableLong;ILcbm;Lcbm;FLash;Lbwn;J)Z	a	a	a	method_47175	method_47175	lambda$create$0
 METHOD	kn	(Ldhh;Ljh;)Z	a	a	a	method_62705	isUnderwater	isUnderWater
 METHOD	cpw	()Lcsx;	gt	gt	gt	method_7344	getHungerManager	getFoodData
@@ -61158,16 +61158,16 @@ METHOD	dod	(Ldxu;Ldgm;Ljh;Lfcc;)Lfcr;	a	a	a	a	a	getShape
 METHOD	clq	(Lash;Lbwe;)V	a	a	a	a	a	thunderHit
 METHOD	dpp	(Lash;Ljh;Ldxu;Lbam;)Z	a	a	a	method_10349	trySpawningBigMushroom	growMushroom
 METHOD	avg	()Ljava/util/Collection;	e	e	e	method_29210	getEnabledIds	getSelectedIds
-METHOD	djp	(Ldxu;)Z	e_	e_	e_	e_	e_	propagatesSkylightDown
 METHOD	djr	(Ldxu;)Z	c_	c_	c_	c_	c_	hasAnalogOutputSignal
+METHOD	djp	(Ldxu;)Z	e_	e_	e_	e_	e_	propagatesSkylightDown
 METHOD	fwb	(Lfoe;)V	h	h	h	method_19910	method_19910	lambda$init$2
 METHOD	bou$a	(I)V	a	a	a	a	a	finish
 METHOD	coe	()Lbxm$a;	p	p	p	method_26943	createHoglinAttributes	createAttributes
 METHOD	avg	()Ljava/util/Collection;	d	d	d	method_14441	getProfiles	getAvailablePacks
 METHOD	ape	(Lcom/mojang/brigadier/context/CommandContext;)I	a	a	a	method_52319	method_52319	lambda$register$8
 METHOD	chs	(Lcxo;)V	i	i	i	i	i	saveToBucketTag
-METHOD	eak	(Lws;)V	b	b	b	b	b	write
 METHOD	azb	()I	d	d	d	d	d	size
+METHOD	eak	(Lws;)V	b	b	b	b	b	write
 METHOD	fxq	(Lfxs;Lddi;Lbbp;)V	a	a	a	a	a	fillGhostRecipe
 METHOD	bta	(Lcpw;)Z	a	a	a	a	a	stillValid
 METHOD	fqp	(Lfnr;Lfnp;J)V	a	a	a	method_1986	draw	render
@@ -61240,8 +61240,8 @@ METHOD	hm	(Z)V	e	e	e	method_9887	setHasSorter	setSorted
 METHOD	ava	(Ljava/util/function/Consumer;Ljava/lang/String;Ljava/util/function/Function;)V	a	a	a	method_45266	method_45266	lambda$listBundledPacks$0
 METHOD	fxn$1	(Ljava/nio/file/Path;)Ljava/nio/file/Path;	b	b	b	method_52762	openDirectory	createDirectoryPack
 METHOD	bps$a	()V	a	a	a	a	a	startTick
-METHOD	cmv	()Z	bY	bY	bY	bY	bY	isOnFire
 METHOD	fdj	(I)Lcxo;	a	a	a	a	a	getItem
+METHOD	cmv	()Z	bY	bY	bY	bY	bY	isOnFire
 METHOD	hm	(Z)V	a	a	a	method_9841	setIncludesNonPlayers	setIncludesEntities
 METHOD	fhz	(Lcom/google/gson/JsonElement;)Ljava/lang/String;	a	a	a	method_49573	toJson	toJson
 METHOD	ehy	(Ljh$a;Lbam;Ljh;I)V	a	a	a	method_33985	setPos	offsetTargetPos
@@ -61265,8 +61265,8 @@ METHOD	dje	(Lcxo;Ldxu;Ldhh;Ljh;Lcpw;Lbth;Lfbt;)Lbti;	a	a	a	a	a	useItemOn
 METHOD	gfj	(III)V	c	c	c	method_18113	scheduleBlockRenders	setSectionDirtyWithNeighbors
 METHOD	ws	()I	x	x	x	method_62788	readSyncId	readContainerId
 METHOD	ape	(Lcom/mojang/brigadier/context/CommandContext;)I	b	b	b	method_52331	method_52331	lambda$register$7
-METHOD	bta	(Lcpw;)V	c	c	c	c	c	stopOpen
 METHOD	gta	(Lbvj;Lgxu;F)V	a	a	a	a	a	extractRenderState
+METHOD	bta	(Lcpw;)V	c	c	c	c	c	stopOpen
 METHOD	bps$a	()V	c	c	c	c	c	pop
 METHOD	azb	()I	c	c	c	method_15226	nextId	nextId
 METHOD	avz	(Lavv;Lbps;)Ljava/lang/Object;	b	b	b	b	b	prepare
@@ -61800,8 +61800,8 @@ METHOD	awi	()[Ljava/lang/String;	e	e	e	method_14580	getPlayerNames	getPlayerName
 METHOD	etu$a	()Ldxu;	a	a	a	comp_3130	self	first
 METHOD	fmj	()Lfmi;	ai	ai	ai	method_42452	getShowAutosaveIndicator	showAutosaveIndicator
 METHOD	fhc	(Lfol;Ljava/lang/Boolean;)V	a	a	a	method_54328	method_54328	lambda$init$8
-METHOD	jh$a	(I)Lkl;	s	s	s	s	s	setZ
 METHOD	va	()Ljava/lang/Number;	l	l	l	l	l	getAsNumber
+METHOD	jh$a	(I)Lkl;	s	s	s	s	s	setZ
 METHOD	aef	(Lacr;)V	a	a	a	method_11535	apply	handle
 METHOD	fmj	()Lfmi;	ag	ag	ag	method_42450	getSprintToggled	toggleSprint
 METHOD	fnl	(Lcxo;I)I	e	e	e	method_57707	method_57707	lambda$createDefault$3
@@ -62210,8 +62210,8 @@ METHOD	hd	(Lboy;)Lbbk;	a	a	a	method_58494	method_58494	lambda$createGrammar$2
 METHOD	dvk	()Ljz;	f	f	f	f	f	getItems
 METHOD	aey	(Lxb;)V	a	a	a	a	a	handle
 METHOD	agl	()Ljava/lang/IllegalStateException;	i	i	i	method_34180	method_34180	lambda$write$0
-METHOD	fqn	(Lfnr;Lfnp;J)V	a	a	a	a	a	render
 METHOD	grd$b	()Lgxu;	d	d	d	d	d	createRenderState
+METHOD	fqn	(Lfnr;Lfnp;J)V	a	a	a	a	a	render
 METHOD	edt	(II)Leer$a;	c	c	c	method_40535	calculateBlendResult	getOrComputeBlendingOutput
 METHOD	gih$a	(Llw;Lgfj;DDDDDD)Lgir;	a	a	a	method_55244	createParticle	createParticle
 METHOD	fhj$c	()Ljava/lang/String;	g	g	g	comp_1601	comp_1601	message
@@ -62468,8 +62468,8 @@ METHOD	gcr	(Lgzg;)V	a	a	a	method_17114	setAngles	setupAnim
 METHOD	efr	(Lefr;)Lefo;	d	d	d	method_35356	method_35356	lambda$static$0
 METHOD	egw	()V	b	b	b	method_39603	dump	logCounts
 METHOD	gbm	()Lget;	a	a	a	method_31998	getTexturedModelData	createBodyLayer
-METHOD	ba$a	()Ljava/util/Optional;	a	a	a	a	a	player
 METHOD	jh	(I)Lkl;	i	i	i	i	i	east
+METHOD	ba$a	()Ljava/util/Optional;	a	a	a	a	a	player
 METHOD	ewh	()Ljava/lang/String;	e	e	e	method_150	getLevelName	getLevelName
 METHOD	ftx	()V	A	A	A	method_59840	clearTooltip	clearTooltipForNextRenderPass
 METHOD	fyd	()V	l	l	l	method_61141	addTitle	createHeader
@@ -64119,8 +64119,8 @@ METHOD	ob	()V	O	O	O	method_42034	registerMangrovePropagule	createMangrovePropagu
 METHOD	bgx	(Lcom/mojang/serialization/Dynamic;)Lcom/mojang/serialization/Dynamic;	c	c	c	method_26298	fixSkullOwner	updateSkullOwner
 METHOD	caj	()Lbzj;	a	a	a	method_47111	create	create
 METHOD	aiq	(Lxb;)V	a	a	a	a	a	handle
-METHOD	asp	()J	J_	J_	J_	J_	J_	nextSubTickCount
 METHOD	ciw	(Lux;)V	h	h	h	h	h	loadFromBucketTag
+METHOD	asp	()J	J_	J_	J_	J_	J_	nextSubTickCount
 METHOD	fyi	()V	c	c	c	c	c	repositionElements
 METHOD	ws	()Lorg/joml/Vector3f;	i	i	i	method_49069	readVector3f	readVector3f
 METHOD	adk$b	(Lit/unimi/dsi/fastutil/ints/IntSet;)Z	b	b	b	method_42076	validateChildNodeIndices	canResolve
@@ -64130,8 +64130,8 @@ METHOD	cwd$a	()Lcwd;	d	d	d	method_47324	build	build
 METHOD	dxf	(J)V	a	a	a	method_56768	setLastFailedUnlockTime	setLastInsertFailTimestamp
 METHOD	eyh	(Lewo;Ldaf;)Ldaf;	a	a	a	method_59544	applyTo	updateModifiers
 METHOD	cqd	()V	D	D	D	method_63669	applyDrag	applyInertia
-METHOD	duc	(Ldxu;)Z	h	h	h	h	h	canGrowInto
 METHOD	bwl	(Lbvj;)Z	r	r	r	r	r	canAddPassenger
+METHOD	duc	(Ldxu;)Z	h	h	h	h	h	canGrowInto
 METHOD	frw$a	(F)Lfrw$a;	c	c	c	method_46485	relativeX	alignHorizontally
 METHOD	dxf	(J)V	b	b	b	method_56774	setStateUpdatingResumeTime	pauseStateUpdatingUntil
 METHOD	dhh	()Laly;	ah	ah	ah	method_27983	getRegistryKey	dimension
@@ -64388,8 +64388,8 @@ METHOD	gul	(Lhad;)F	b	b	b	method_55836	getShadowRadius	getShadowRadius
 METHOD	hdr	(Lalz;)Ldfr;	a	a	a	method_64087	get	get
 METHOD	ash	(Lbvj;)Z	b	b	b	b	b	addFreshEntity
 METHOD	doi	(Ldxu;Ldhh;Ljh;Ldkl;Leve;Z)V	a	a	a	a	a	neighborChanged
-METHOD	edt$d	(Ledi$b;)D	a	a	a	a	a	compute
 METHOD	fvc$c	()Lcom/mojang/datafixers/util/Pair;	b	b	b	b	b	getNoItemIcon
+METHOD	edt$d	(Ledi$b;)D	a	a	a	a	a	compute
 METHOD	ob	()V	a	a	a	method_25534	register	run
 METHOD	aom	(Lew;Ljh;ILjh;I)I	a	a	a	method_32719	executeBlockCopyBlock	blockToBlock
 METHOD	glp$g	()Lalz;	c	c	c	comp_3028	comp_3028	location
@@ -64741,8 +64741,8 @@ METHOD	bwf	(Lbwr;)Lbvm;	e	e	e	method_55694	getBaseDimensions	getDefaultDimension
 METHOD	edb$c	(IIII)I	a	a	a	method_42352	getNoiseBasedFluidLevel	computeRandomizedFluidSurfaceLevel
 METHOD	bnh	(Lcom/mojang/datafixers/schemas/Schema;)Lcom/mojang/datafixers/types/templates/TypeTemplate;	j	j	j	method_63581	method_63581	lambda$components$2
 METHOD	ftz	()Z	l	l	l	method_2253	isRealmsNotificationsGuiDisplayed	realmsNotificationsEnabled
-METHOD	dmo	(Ldxu;)Z	c_	c_	c_	c_	c_	hasAnalogOutputSignal
 METHOD	dml	(Ldxu;)Z	f_	f_	f_	f_	f_	isSignalSource
+METHOD	dmo	(Ldxu;)Z	c_	c_	c_	c_	c_	hasAnalogOutputSignal
 METHOD	dh$a	(Laly;)Ldh$a;	a	a	a	method_53182	createDimension	inDimension
 METHOD	dwv	(Lash;Ldwv$a;Ljh;DZ)Ljava/util/List;	b	b	b	method_56722	method_56722	lambda$static$5
 METHOD	cko$3	(Lash;Lbwn;J)V	method_33197	method_33197	method_33197	method_33197	run	method_33197
@@ -64923,8 +64923,8 @@ METHOD	cil$a	(Ljava/lang/String;)Lcil$a;	a	a	a	method_6567	byName	byName
 METHOD	grq	(Lgrp$a;)Lgro;	g	g	g	method_32181	method_32181	lambda$static$38
 METHOD	doe	(Ldxu;Ldhk;Ljh;)Z	a	a	a	a	a	canSurvive
 METHOD	bvh$h	()F	b	b	b	comp_1325	comp_1325	current
-METHOD	evc	(Ljm;Ldxu;Ljh;Ljh;II)V	a	a	a	a	a	shapeUpdate
 METHOD	ecz$b	()Lecu;	a	a	a	a	a	getListenerSource
+METHOD	evc	(Ljm;Ldxu;Ljh;Ljh;II)V	a	a	a	a	a	shapeUpdate
 METHOD	eqw	(Leqw;)Ljava/lang/Float;	a	a	a	method_41678	method_41678	lambda$static$2
 METHOD	fzi	(Lfzg;)V	a	a	a	method_48701	setGeneratorOptionsHolder	setSettings
 METHOD	dkq	(Ldxu;Ldhh;Ljh;Ldxu;Z)V	a	a	a	a	a	onRemove
@@ -66010,8 +66010,8 @@ METHOD	epg	(JIIIF)Z	c	c	c	method_41640	legacyType2ShouldGenerate	legacyArbitrary
 METHOD	hgm	()V	h	h	h	method_54649	stopAbruptly	emergencyShutdown
 METHOD	cda	()Z	c	c	c	c	c	canContinueToUse
 METHOD	bzn	(Lbwn;Lbwf;)Ljava/util/Optional;	a	a	a	method_36262	findRamStart	calculateRammingStartPosition
-METHOD	adb$h	(Ljava/util/UUID;Ladb$b;)V	a	a	a	a	a	dispatch
 METHOD	euc	(Ldhk;)I	b	b	b	b	b	getSlopeFindDistance
+METHOD	adb$h	(Ljava/util/UUID;Ladb$b;)V	a	a	a	a	a	dispatch
 METHOD	cmt	()V	ai_	ai_	ai_	ai_	ai_	doUnderWaterConversion
 METHOD	fym	()Z	k	k	k	method_53595	isReportable	isChatReportable
 METHOD	gkn	(JLfii;)Z	a	a	a	method_51258	method_51258	lambda$joinRealmsWorld$1
@@ -66448,8 +66448,8 @@ METHOD	ddy$a	(Lkt;Ljava/lang/Object;)Lddy$a;	a	a	a	method_60066	addEffect	withEf
 METHOD	elq	(Lelt$a;)V	a	a	a	a	a	place
 METHOD	rj	(Ldik$a;)V	M	M	M	method_16969	addBadlandsGrass	addBadlandGrass
 METHOD	hgm$a	(Ljava/util/Map;Ljava/util/Map;Lhgj;)V	a	a	a	method_18186	reload	apply
-METHOD	cis	(Lux;)V	b	b	b	b	b	addAdditionalSaveData
 METHOD	byq	(Lash;Lbwf;J)V	b	b	b	b	b	stop
+METHOD	cis	(Lux;)V	b	b	b	b	b	addAdditionalSaveData
 METHOD	grd	(Lbvj;Ljh;)I	b	b	b	b	b	getSkyLightLevel
 METHOD	bdf	()V	i	i	i	method_31456	putStatesFromBlocks128To143	bootstrap8
 METHOD	djw	(Ldxu;Ldhk;Ljh;)Z	a	a	a	a	a	canSurvive
@@ -66471,8 +66471,8 @@ METHOD	aot	(Lcom/mojang/brigadier/builder/ArgumentBuilder;Laot$c;)Lcom/mojang/br
 METHOD	dwh	(Lash;)V	a	a	a	method_43147	warn	tryRespond
 METHOD	cqa	(Ljava/util/List;ILcqa$b;)Z	a	a	a	method_61502	match	tryPick
 METHOD	dkn	(Ldxt$d;)Ldkl;	M	M	M	method_63034	method_63034	lambda$static$440
-METHOD	dms	(Ldxu;)Z	c_	c_	c_	c_	c_	hasAnalogOutputSignal
 METHOD	dmp	(Ldxu;)Z	f_	f_	f_	f_	f_	isSignalSource
+METHOD	dms	(Ldxu;)Z	c_	c_	c_	c_	c_	hasAnalogOutputSignal
 METHOD	bxm$a	(Ljq;)Lbxj;	b	b	b	method_26870	checkedAdd	create
 METHOD	us	()Lus;	a	a	a	method_10517	getInstance	getInstance
 METHOD	dpa	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
@@ -68335,8 +68335,8 @@ METHOD	dea	(Lcxo;Lbwf;F)F	a	a	a	method_60159	getCrossbowChargeTime	modifyCrossbo
 METHOD	eoj	(Lke;Ldzq;Ldin;Leed;Lesm;JLdgn;ILdhj;Ljava/util/function/Predicate;)Leor;	a	a	a	method_41614	createStructureStart	generate
 METHOD	bwf	()Z	bL	bL	bL	bL	bL	isAlive
 METHOD	cfp	(Z)V	c	c	c	method_6331	setCanEnterOpenDoors	setCanPassDoors
-METHOD	grt	(Lgxu;Lfgr;Lglk;I)V	a	a	a	a	a	render
 METHOD	dpc	(Ldxu;Ldgm;Ljh;Ljm;)I	a	a	a	a	a	getSignal
+METHOD	grt	(Lgxu;Lfgr;Lglk;I)V	a	a	a	a	a	render
 METHOD	zr$26	(Lio/netty/buffer/ByteBuf;Ljava/lang/Integer;)V	a	a	a	method_56398	encode	encode
 METHOD	evd	(Ljh;Ldkl;Ljm;Leve;)V	a	a	a	method_41705	updateNeighbors	updateNeighborsAtExceptFromFacing
 METHOD	dkx	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
@@ -68554,8 +68554,8 @@ METHOD	gli	(FI)F	a	a	a	method_62226	getBrightness	getBrightness
 METHOD	ati	(Lacj;)V	a	a	a	a	a	handleSelectKnownPacks
 METHOD	bwf	()V	eI	eI	eI	method_41329	disableExperienceDropping	skipDropExperience
 METHOD	fkx	(Ljava/lang/String;[Lfkx$b;)Ljava/util/List;	a	a	a	method_21578	decompose	decompose
-METHOD	cok	(Lash;Lcxo;)Z	c	c	c	c	c	wantsToPickUp
 METHOD	fwr$c	()Lxv;	a	a	a	a	a	getNarration
+METHOD	cok	(Lash;Lcxo;)Z	c	c	c	c	c	wantsToPickUp
 METHOD	dhd$d	()I	c	c	c	c	c	getCommandResult
 METHOD	brj	(Ljava/util/function/Supplier;Lorg/apache/commons/lang3/tuple/Pair;)Lbrb;	a	a	a	method_37197	method_37197	lambda$newSamplersFoundInProfiler$1
 METHOD	fdm	(Ljava/util/Queue;Lfdk;JI)V	a	a	a	method_39389	addTickableTicks	drainFromCurrentContainer
@@ -68634,8 +68634,8 @@ METHOD	cmb	(Leuw;)Lbvj;	b	b	b	b	b	teleport
 METHOD	cka	(Z)V	A	A	A	method_6751	setBred	setBred
 METHOD	cuy	()Z	h	h	h	method_7681	hasStack	hasItem
 METHOD	dkf	(Ldhh;Ljh;Ldxu;)V	a	a	a	method_21843	spawnHoneyParticles	trySpawnDripParticles
-METHOD	dou	(Ldxu;Ldgm;Ljh;Lfcc;)Lfcr;	a	a	a	a	a	getShape
 METHOD	euh	(DDD)Leur;	a	a	a	a	a	getTarget
+METHOD	dou	(Ldxu;Ldgm;Ljh;Lfcc;)Lfcr;	a	a	a	a	a	getShape
 METHOD	gln	(Lfnr;IIFF)V	a	a	a	method_3317	render	render
 METHOD	apc	(I)Lxv;	b	b	b	method_52025	method_52025	lambda$publish$6
 METHOD	fhc$i	()Lxv;	a	a	a	a	a	getNarration
@@ -68918,8 +68918,8 @@ METHOD	flq	(Lddk;)V	c	c	c	method_64856	unmarkHighlighted	removeHighlight
 METHOD	ann	(Lew;)I	a	a	a	method_38772	stop	stop
 METHOD	dkl	(Ldhh;Ldxu;Ljh;Lbvj;F)V	a	a	a	method_9554	onLandedUpon	fallOn
 METHOD	hfy	(Ljava/lang/String;)Ljava/lang/String;	b	b	b	method_4820	parseAnnouncementAddressPort	parseAddress
-METHOD	cht	()I	Q	Q	Q	Q	Q	getAmbientSoundInterval
 METHOD	uh	(Lash;)V	a	a	a	a	a	onBatchStart
+METHOD	cht	()I	Q	Q	Q	Q	Q	getAmbientSoundInterval
 METHOD	cyl	()Ljava/lang/String;	c	c	c	c	c	getSerializedName
 METHOD	sr	()Lejv$a;	f	f	f	method_49392	cherry	cherry
 METHOD	czg	()Z	b	b	b	method_47370	isCreative	isCreative
@@ -69531,8 +69531,8 @@ METHOD	bwf	()F	fh	fh	fh	method_6017	getSoundPitch	getVoicePitch
 METHOD	cko	(Lbxh;)V	b	b	b	method_49154	addCoreActivities	initCoreActivity
 METHOD	gpd	()Ljava/util/Map;	d	d	d	method_24084	getBlacklistingBees	createHiveBlacklistMap
 METHOD	diz	(Ljava/util/function/Consumer;Ldis$b;)V	d	d	d	method_38200	writeLowBiomes	addLowSlice
-METHOD	cvz	(Lcxo;Lbwf;)I	a	a	a	a	a	getUseDuration
 METHOD	dnd	(Ldbf;)Ldxu;	a	a	a	a	a	getStateForPlacement
+METHOD	cvz	(Lcxo;Lbwf;)I	a	a	a	a	a	getUseDuration
 METHOD	la	(Ldhh;Lcxo;ILjm;Lka;)V	a	a	a	method_10134	spawnItem	spawnItem
 METHOD	fou	(Lhgm;)V	a	a	a	a	a	playDownSound
 METHOD	cpi	(Lbtz;)V	a	a	a	a	a	die
@@ -71122,8 +71122,8 @@ METHOD	chv	()Z	y	y	y	y	y	canBeLeashed
 METHOD	afe$a	()B	d	d	d	comp_3234	comp_3234	flags
 METHOD	nw	(Lnw;Ldhg;)Lewt$a;	a	a	a	method_65054	method_65054	lambda$generate$1
 METHOD	ciz	()F	fg	fg	fg	fg	fg	getSoundVolume
-METHOD	bzj	(Lash;Lbwf;J)Z	e	e	e	e	e	tryStart
 METHOD	gvk	(Lfgr;Lglk;ILgxu;FF)V	a	a	a	a	a	render
+METHOD	bzj	(Lash;Lbwf;J)Z	e	e	e	e	e	tryStart
 METHOD	dcl	(Ldco;Ldcj;Ldhh;)Ljava/util/stream/Stream;	a	a	a	method_64699	find	getRecipesFor
 METHOD	gua	(Lgys;)Lalz;	b	b	b	b	b	getTextureLocation
 METHOD	cgl	(Lash;Ljh;)Z	b	b	b	method_30077	method_30077	lambda$findNearestRepellent$1
@@ -71459,8 +71459,8 @@ METHOD	bvj	(Lcqp;)Lcqq;	a	a	a	method_56071	getProjectileDeflection	deflection
 METHOD	cmg	()I	x	x	x	x	x	getHardAttackInterval
 METHOD	dip	(Ldip;)Ldip$b;	f	f	f	method_30813	method_30813	lambda$static$6
 METHOD	dg	()Lcom/mojang/serialization/Codec;	a	a	a	a	a	codec
-METHOD	edj$h	()D	b	b	b	b	b	maxValue
 METHOD	cut	(I)Lcxo;	a	a	a	a	a	getItem
+METHOD	edj$h	()D	b	b	b	b	b	maxValue
 METHOD	bwf	(Lcxo;Lbvr;Lbxk;)V	a	a	a	method_61422	onEquipmentRemoved	stopLocationBasedEffects
 METHOD	aot	(Lew;Lfbx;Ljava/util/List;Laot$a;)I	a	a	a	method_13183	executeSpawn	dropInWorld
 METHOD	dea	(Lorg/apache/commons/lang3/mutable/MutableBoolean;Lash;Lbwf;Lbtz;Ljq;ILddx;)V	a	a	a	method_60151	method_60151	lambda$isImmuneToDamage$4
@@ -71886,8 +71886,8 @@ METHOD	ew	()Ljava/util/stream/Stream;	s	s	s	s	s	getAvailableSounds
 METHOD	ct	()Lkt;	a	a	a	a	a	componentType
 METHOD	ys	(Ln;)Lys;	a	a	a	method_10977	withColor	withColor
 METHOD	app	(Lew;Lfcu;Lfdf$a;)I	a	a	a	method_13581	executeModifyRenderType	setRenderType
-METHOD	cpd	(I)V	s	s	s	s	s	overrideXp
 METHOD	aia	(Lxb;)V	a	a	a	a	a	handle
+METHOD	cpd	(I)V	s	s	s	s	s	overrideXp
 METHOD	bn	()Ldj$c;	c	c	c	comp_1745	comp_1745	z
 METHOD	fkm	()Ljava/lang/String;	a	a	a	method_64365	getErrorMessage	getSimplifiedErrorMessage
 METHOD	fcy	()I	a	a	a	method_55397	getScore	value
@@ -72616,8 +72616,8 @@ METHOD	cno	(Lash;Lbtz;F)Z	a	a	a	a	a	hurtServer
 METHOD	drm	(Ldhh;Lbam;Ljh;Ldxu;)Z	a	a	a	a	a	isBonemealSuccess
 METHOD	adk	(Lacr;)V	a	a	a	method_11404	apply	handle
 METHOD	dd	()Lcom/mojang/serialization/Codec;	a	a	a	a	a	codec
-METHOD	cjz	(I)Lbwx;	a_	a_	a_	a_	a_	getSlot
 METHOD	ng	()Ljava/lang/String;	a	a	a	a	a	getName
+METHOD	cjz	(I)Lbwx;	a_	a_	a_	a_	a_	getSlot
 METHOD	amt	()V	n	n	n	method_54681	sendUpdateTickRatePacket	updateStateToClients
 METHOD	ece	(Ljava/lang/Class;)Lece;	b	b	b	method_55374	equals	forExactClass
 METHOD	gsd	(Lcms;)Lbvj;	a	a	a	method_62454	getBeamTarget	getEntityToLookAt
@@ -73565,8 +73565,8 @@ METHOD	net/minecraft/server/MinecraftServer	(Lasi;)Lasj;	b	b	b	method_32816	getP
 METHOD	ahm	(Laid;)V	a	a	a	method_12054	onCloseHandledScreen	handleContainerClose
 METHOD	euv	(Ldgm;Ljh;Ljm;Ljh$a;ILorg/apache/commons/lang3/mutable/MutableInt;)I	a	a	a	method_30490	getPotentialHeight	getDistanceUntilTop
 METHOD	bc	([Ljava/util/function/Predicate;)Lbc;	a	a	a	method_59608	create	of
-METHOD	cmi	(Lcpw;Lbth;)Lbti;	b	b	b	b	b	mobInteract
 METHOD	fyj$a$a	(DDI)Z	a	a	a	a	a	mouseClicked
+METHOD	cmi	(Lcpw;Lbth;)Lbti;	b	b	b	b	b	mobInteract
 METHOD	dmb	(Ldxu;Lash;Ljh;Lbam;)V	a	a	a	a	a	tick
 METHOD	aij	()Z	f	f	f	method_29446	shouldKeepJigsaws	keepJigsaws
 METHOD	cjd	(Lbwf;)Z	c	c	c	method_49122	hasNearestVisibleWantedItem	hasWantedItem
@@ -73615,8 +73615,8 @@ METHOD	gfg	(Laak;)V	a	a	a	a	a	handleCustomReportDetails
 METHOD	bpa	([Lbpa;)Lbpa;	b	b	b	method_58338	anyOf	alternative
 METHOD	fn	(Ljava/lang/Object;Ljava/lang/Object;)Lcom/mojang/brigadier/Message;	a	a	a	method_59836	method_59836	lambda$static$0
 METHOD	cuy	(I)Lcxo;	a	a	a	method_7671	takeStack	remove
-METHOD	grd$b	(Lbvh;Lgxo;F)V	a	a	a	a	a	extractRenderState
 METHOD	glh	(Lalz;)Lfgd;	a	a	a	a	a	get
+METHOD	grd$b	(Lbvh;Lgxo;F)V	a	a	a	a	a	extractRenderState
 METHOD	baw	(I)Lbaw;	a	a	a	method_23859	create	create
 METHOD	dgq	(Ldxu;Ljh;Lfcc;)Z	a	a	a	method_8628	canPlace	isUnobstructed
 METHOD	cdp	()V	d	d	d	d	d	start
@@ -73633,8 +73633,8 @@ METHOD	tr	(Lcxk;Lcxo;)Z	a	a	a	method_48000	method_48000	lambda$assertEntityInven
 METHOD	dnq	(II)V	a	a	a	method_41425	setHatchTimeRange	setHatchDelay
 METHOD	csa	(Lcpw;)Z	g	g	g	method_42294	canPlayerAccess	isChestVehicleStillValid
 METHOD	dkl	(Ldgz;)Z	a	a	a	method_9533	shouldDropItemsOnExplosion	dropFromExplosion
-METHOD	fdj	(II)Lcxo;	a	a	a	a	a	removeItem
 METHOD	fes	(I)Lfep;	a	a	a	a	a	getGlyph
+METHOD	fdj	(II)Lcxo;	a	a	a	a	a	removeItem
 METHOD	cdp	()V	e	e	e	e	e	stop
 METHOD	bpa	([Lbpa;)Lbpa;	a	a	a	method_58336	sequence	sequence
 METHOD	dis	(Ldis$b;Ldis$b;Ldis$b;Ldis$b;Ldis$b;Ldis$b;F)Ldis$d;	a	a	a	method_38118	createNoiseHypercube	parameters
@@ -74661,8 +74661,8 @@ METHOD	dhh	(Levo;Levq;)V	a	a	a	method_17890	putMapState	setMapData
 METHOD	bwl	(Lash;Lcyj;Lcxo;)Lbvj;	a	a	a	method_61432	spawnProjectile	spawnProjectile
 METHOD	dll	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
 METHOD	cwe	()Lcxo;	k	k	k	method_51337	method_51337	lambda$bootstrap$21
-METHOD	cji	()I	aa	aa	aa	aa	aa	getMaxHeadYRot
 METHOD	cmm	()I	a	a	a	a	a	getRemainingPersistentAngerTime
+METHOD	cji	()I	aa	aa	aa	aa	aa	getMaxHeadYRot
 METHOD	grj	()Lgxu;	d	d	d	d	d	createRenderState
 METHOD	mi$e	()Ljava/lang/String;	a	a	a	comp_1124	providerName	providerId
 METHOD	daw	(Lew;Lcpw;Lasz;)Ljava/util/Optional;	a	a	a	method_57522	resolve	resolvePage
@@ -76126,8 +76126,8 @@ METHOD	did	(Lkd;Ljava/util/function/Predicate;Leoj;)Z	a	a	a	method_41414	method_
 METHOD	cps	(F)V	b	b	b	method_7250	setWalkSpeed	setWalkingSpeed
 METHOD	dhi	(Lcpw;Ljh;Laxe;Laxg;FF)V	a	a	a	method_8396	playSound	playSound
 METHOD	dzr	()V	b	b	b	method_46712	tryCalculate	ensureStructuresGenerated
-METHOD	crv	()F	r_	r_	r_	r_	r_	lerpTargetXRot
 METHOD	cpw	(B)V	b	b	b	b	b	handleEntityEvent
+METHOD	crv	()F	r_	r_	r_	r_	r_	lerpTargetXRot
 METHOD	kq	()I	d	d	d	method_57835	size	size
 METHOD	ahj	(Ldhh;Lbwh;Leuk;F)V	a	a	a	method_19470	sendPathfindingData	sendPathFindingPacket
 METHOD	dj$c	()Ljava/util/Optional;	e	e	e	comp_1807	squaredMin	minSq
@@ -76932,8 +76932,8 @@ METHOD	frw$a	(I)Lfrw;	g	g	g	g	g	paddingVertical
 METHOD	nb	()Ljava/lang/String;	a	a	a	a	a	getName
 METHOD	drh	(Ldhh;Ljh;Ldxu;Lbvj;)V	a	a	a	a	a	stepOn
 METHOD	add	(Lacr;)V	a	a	a	method_48329	apply	handle
-METHOD	ddo$j	(Lcss;)Z	a	a	a	a	a	isEnabled
 METHOD	fz$a	(Lis$a;Lcom/google/gson/JsonObject;)V	a	a	a	a	a	serializeToJson
+METHOD	ddo$j	(Lcss;)Z	a	a	a	a	a	isEnabled
 METHOD	bga	(Lcom/mojang/datafixers/types/Type;Lcom/mojang/datafixers/types/Type;Lcom/mojang/datafixers/Typed;)Lcom/mojang/datafixers/Typed;	b	b	b	method_24317	method_24317	lambda$cap$2
 METHOD	eci	(Lebx;)Z	l	l	l	method_31859	method_31859	lambda$updateChunkStatus$5
 METHOD	gbz	(Lbvz;Lfgr;)V	a	a	a	a	a	translateToHand
@@ -77249,8 +77249,8 @@ METHOD	hr	()Lhr;	d	d	d	method_54888	setInsideReturnRun	setReturn
 METHOD	bqw	()Ljava/time/Instant;	a	a	a	comp_52	time	timestamp
 METHOD	ws	(Ljava/util/Map;Lzv;Lzv;)V	a	a	a	method_34063	writeMap	writeMap
 METHOD	elh	()Lelb;	a	a	a	a	a	type
-METHOD	ee$d	(Ldxw;Ldyw;)Z	a	a	a	a	a	match
 METHOD	asp	(III)Ljq;	a	a	a	a	a	getUncachedNoiseBiome
+METHOD	ee$d	(Ldxw;Ldyw;)Z	a	a	a	a	a	match
 METHOD	bti$d	()Z	a	a	a	a	a	consumesAction
 METHOD	edd	(Ljava/util/stream/LongStream;)Ljava/util/BitSet;	a	a	a	method_39325	method_39325	lambda$static$0
 METHOD	glf	(Ljq;Ljh;)V	a	a	a	method_62193	playJukeboxSong	playJukeboxSong
@@ -77875,8 +77875,8 @@ METHOD	fev$e	(Lfgd;)Lfgd;	b	b	b	b	b	readsAndWrites
 METHOD	dfc	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
 METHOD	fdj	()I	b	b	b	b	b	getContainerSize
 METHOD	dfp	(Ljava/util/EnumMap;)V	g	g	g	method_48411	method_48411	lambda$static$1
-METHOD	cgr	()Ljava/util/Set;	a	a	a	a	a	requires
 METHOD	gww	(Lgys;Lfgr;FF)V	a	a	a	a	a	setupRotations
+METHOD	cgr	()Ljava/util/Set;	a	a	a	a	a	requires
 METHOD	dvj	()I	a	a	a	method_31678	getViewerCount	getOpenerCount
 METHOD	cbk	(FLcbl$b;)Lcom/mojang/datafixers/kinds/App;	a	a	a	method_47208	method_47208	lambda$create$6
 METHOD	ddz	(Lkt$a;)Lkt$a;	r	r	r	method_60097	method_60097	lambda$static$13
@@ -78335,8 +78335,8 @@ METHOD	fev$c	(Ljava/lang/String;)V	d	d	d	method_61921	pop	afterExecutePass
 METHOD	kv	()V	f	f	f	method_62714	clearChanges	clearPatch
 METHOD	cpz$a	(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App;	a	a	a	method_43701	method_43701	lambda$static$0
 METHOD	btp	()Ljava/util/List;	f	f	f	method_24514	clearToList	removeAllItems
-METHOD	fgi	(FFFFFFFF)V	b	b	b	b	b	setMat4x2
 METHOD	fnz	(DDI)Z	a	a	a	a	a	mouseClicked
+METHOD	fgi	(FFFFFFFF)V	b	b	b	b	b	setMat4x2
 METHOD	dvi	()Z	d	d	d	method_11066	isEyeOpen	isHunting
 METHOD	eqz$a	(Lux;Lalz;)Lesh;	a	a	a	method_35453	method_35453	lambda$new$0
 METHOD	chs	(Lux;)V	b	b	b	b	b	addAdditionalSaveData
@@ -79015,8 +79015,8 @@ METHOD	cim	()V	B	B	B	B	B	registerGoals
 METHOD	zr$16	(Lio/netty/buffer/ByteBuf;Lzt;Ljava/lang/Object;)V	a	a	a	method_58010	method_58010	lambda$encode$1
 METHOD	mz	(Lmf;)Ljava/util/concurrent/CompletableFuture;	a	a	a	a	a	run
 METHOD	bq$a	()Ldj$d;	d	d	d	comp_2049	comp_2049	levels
-METHOD	fgm	(FFF)Lfgv;	a	a	a	a	a	addVertex
 METHOD	cns	()Lbxh;	ec	ec	ec	ec	ec	getBrain
+METHOD	fgm	(FFF)Lfgv;	a	a	a	a	a	addVertex
 METHOD	bum	(Lash;Lbwf;ILbvj$d;)V	a	a	a	method_58617	onEntityRemoval	onMobRemoved
 METHOD	anz	(Lcom/mojang/brigadier/context/CommandContext;)I	a	a	a	method_48545	method_48545	lambda$register$10
 METHOD	iy	(Lws;)Lis$a;	b	b	b	b	b	deserializeFromNetwork
@@ -80626,8 +80626,8 @@ METHOD	bum	(I)Lbum;	a	a	a	method_55649	fadeTicks	setBlendDuration
 METHOD	eai	(Ljv;Leah$d;)Leai$a;	a	a	a	method_44345	serialize	pack
 METHOD	bgi	(Lcom/mojang/datafixers/OpticFinder;Lcom/mojang/datafixers/types/Type;Lcom/mojang/datafixers/Typed;)Lcom/mojang/datafixers/Typed;	a	a	a	method_5013	method_5013	lambda$makeRule$4
 METHOD	fkl	([Lxv;)V	a	a	a	method_27460	setStatusTexts	setErrorMessage
-METHOD	ewd$b	()Z	q	q	q	q	q	isDisabled
 METHOD	cpw	()Lbwf$a;	eM	eM	eM	eM	eM	getFallSounds
+METHOD	ewd$b	()Z	q	q	q	q	q	isDisabled
 METHOD	bvq	(Ljava/lang/String;)Laly;	b	b	b	method_63003	keyOf	vanillaEntityId
 METHOD	dkn	(Ldxt$d;)Ldkl;	gi	gi	gi	method_63364	method_63364	lambda$static$71
 METHOD	did	(Ljh;)Ljava/util/Map;	b	b	b	method_41037	getStructureReferences	getAllStructuresAt
@@ -81284,8 +81284,8 @@ METHOD	fvd	(Lcuy;Lalz;FLfnr;II)V	a	a	a	method_48470	drawIcon	renderIcon
 METHOD	dww$a	(I)Ldww$a;	a	a	a	method_58710	fromIndex	decode
 METHOD	qp	(I)[Ljava/util/concurrent/CompletableFuture;	b	b	b	method_46590	method_46590	lambda$run$6
 METHOD	fvc	(III)Z	a	a	a	a	a	keyPressed
-METHOD	cru	(II)Lcxo;	a	a	a	a	a	removeItem
 METHOD	edt$g	([DLedi$a;)V	a	a	a	a	a	fillArray
+METHOD	cru	(II)Lcxo;	a	a	a	a	a	removeItem
 METHOD	acr	(Lacz;)V	a	a	a	method_11158	onBlockEvent	handleBlockEvent
 METHOD	bvo	(Lbvj;)Z	d	d	d	method_5910	method_5910	lambda$static$3
 METHOD	emt	(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App;	a	a	a	method_35395	method_35395	lambda$static$2
@@ -81727,8 +81727,8 @@ METHOD	ews$a	()Lexy;	c	c	c	c	c	unwrap
 METHOD	guc	()Lgxu;	d	d	d	d	d	createRenderState
 METHOD	bvj	()Ljm;	bE	bE	bE	method_58149	getFacing	getNearestViewDirection
 METHOD	bwf	(Lbtz;F)V	c	c	c	method_6105	damageArmor	hurtArmor
-METHOD	gnr	()I	aW_	aW_	aW_	aW_	aW_	getViewDistance
 METHOD	dsr	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
+METHOD	gnr	()I	aW_	aW_	aW_	aW_	aW_	getViewDistance
 METHOD	cfx	(Lbwf;Lbwf;)Z	a	a	a	method_35144	canHunt	isHuntTarget
 METHOD	fbt	()Ljm;	c	c	c	method_17780	getSide	getDirection
 METHOD	ew	()Let;	p	p	p	p	p	callback
@@ -82252,8 +82252,8 @@ METHOD	crj	()Z	u	u	u	method_16504	isActive	isActive
 METHOD	cwd$d	(Lcss;ZLjs$a;)Z	a	a	a	method_48932	doesNotMatch	needsUpdate
 METHOD	glu	()Lglu;	K	K	K	method_51787	getGuiGhostRecipeOverlay	guiGhostRecipeOverlay
 METHOD	kt$a$a	()Lcom/mojang/serialization/Codec;	b	b	b	b	b	codec
-METHOD	fgi	(FFFFFFFFFFFF)V	a	a	a	a	a	setMat3x4
 METHOD	cmz	()Lbtp;	t	t	t	t	t	getInventory
+METHOD	fgi	(FFFFFFFFFFFF)V	a	a	a	a	a	setMat3x4
 METHOD	fwg	(Lfnp;IILorg/joml/Matrix4f;Lglk$a;)V	a	a	a	a	a	renderText
 METHOD	gpy	(Ljh;Lfgr;DDDLglk;DFFF)V	a	a	a	method_51791	renderBlockHighlight	highlightPosition
 METHOD	bxi	(Z)Lbxi;	a	a	a	method_26829	setTracked	setSyncable
@@ -83327,8 +83327,8 @@ METHOD	anr	(Lcom/mojang/brigadier/context/CommandContext;)I	g	g	g	method_13141	m
 METHOD	dzz	(Ljh;Lux;)Lduw;	a	a	a	method_12204	loadBlockEntity	promotePendingBlockEntity
 METHOD	gqd	()Lglu;	b	b	b	method_64520	getRenderLayer	renderType
 METHOD	chw	(Lash;)I	e	e	e	e	e	getBaseExperienceReward
-METHOD	fmj$2	(Ljava/lang/String;F)F	a	a	a	a	a	process
 METHOD	bwa	()V	h	h	h	h	h	tick
+METHOD	fmj$2	(Ljava/lang/String;F)F	a	a	a	a	a	process
 METHOD	fxo$a	()V	e	e	e	method_48281	moveTowardStart	keyboardMoveUp
 METHOD	cis	()Z	x	x	x	method_6629	isSheared	isSheared
 METHOD	wf	(D)Lvr$b;	a	a	a	a	a	visit
@@ -83993,8 +83993,8 @@ METHOD	arr	(Larr;Larr;Ljava/util/function/Consumer;Ljava/util/function/Consumer;
 METHOD	cnc	()I	Z	Z	Z	Z	Z	getMaxHeadXRot
 METHOD	bzn	(Lash;Lbwf;J)V	c	c	c	c	c	tick
 METHOD	fdc$1	(Z)V	a	a	a	method_55433	setLocked	setLocked
-METHOD	gsm	(Lbvj;Ljh;)I	a	a	a	a	a	getBlockLightLevel
 METHOD	eeh$1	(ILdxu;)V	a	a	a	a	a	setBlock
+METHOD	gsm	(Lbvj;Ljh;)I	a	a	a	a	a	getBlockLightLevel
 METHOD	dag	(Lcxo;)Z	b	b	b	method_59711	method_59711	lambda$nonEmptyStream$1
 METHOD	dgq	(Ljh$a;Lfcr;)Lfcr;	d	d	d	method_51717	method_51717	lambda$getBlockCollisions$0
 METHOD	cdp	(Lash;Ljh;Ljh;)D	a	a	a	method_19053	method_19053	lambda$canUse$2
@@ -85414,8 +85414,8 @@ METHOD	cpj	(I)Lcpj;	a	a	a	method_16920	withLevel	setLevel
 METHOD	azl$a	()Lcom/mojang/serialization/Codec;	b	b	b	comp_2658	comp_2658	codec
 METHOD	dqk	(Ldxu;Ldpk;)Ldxu;	a	a	a	a	a	mirror
 METHOD	amh	(Lasi;)V	b	b	b	method_12876	sendUpdate	flushDirty
-METHOD	ant$b	(ILalz;I)V	a	a	a	a	a	onCall
 METHOD	cka	()V	d_	d_	d_	d_	d_	aiStep
+METHOD	ant$b	(ILalz;I)V	a	a	a	a	a	onCall
 METHOD	ak	(Ljava/util/Set;)Lcom/mojang/serialization/DataResult;	a	a	a	method_54925	validate	validate
 METHOD	grx	(Lgys;Lfgr;FF)V	a	a	a	a	a	setupRotations
 METHOD	bax$a	(Lash;Ljh;Ldxu;Ljh;Ldxu;)Z	b	b	b	method_44182	method_44182	lambda$static$1
@@ -85440,8 +85440,8 @@ METHOD	ciz	()V	t	t	t	t	t	applyTamingSideEffects
 METHOD	gzt	()Z	c	c	c	c	c	isSaddled
 METHOD	cvd	(Lcqb;)V	fillStackedContents	fillStackedContents	fillStackedContents	method_7683	provideRecipeInputs	fillStackedContents
 METHOD	agy	(Lxb;)V	a	a	a	a	a	handle
-METHOD	gwd	(Lgys;Lhdm;Lcxo;Lcxm;Lbvz;Lfgr;Lglk;I)V	a	a	a	a	a	renderArmWithItem
 METHOD	doe	(Ldbf;)Ldxu;	a	a	a	a	a	getStateForPlacement
+METHOD	gwd	(Lgys;Lhdm;Lcxo;Lcxm;Lbvz;Lfgr;Lglk;I)V	a	a	a	a	a	renderArmWithItem
 METHOD	ask	(Ldzp;Ldgn;)V	a	a	a	method_51288	method_51288	lambda$initializeLight$19
 METHOD	azw	()Ljava/lang/String;	c	c	c	method_49449	method_49449	lambda$create$3
 METHOD	vk	(Ljava/io/InputStream;Lvr;Lvg;)V	a	a	a	method_40058	scanCompressed	parseCompressed
@@ -86930,8 +86930,8 @@ METHOD	crb	(Lbwf;Lbtz;)Lit/unimi/dsi/fastutil/doubles/DoubleDoubleImmutablePair;
 METHOD	ws	(II)Lws;	a	a	a	method_52944	setIndex	setIndex
 METHOD	chz	(Lbtz;)Laxe;	e	e	e	e	e	getHurtSound
 METHOD	ffx	(Ljava/lang/String;)Ljava/util/List;	a	a	a	method_34229	readSource	process
-METHOD	crh	(Lcqq;Lbvj;Lbvj;Z)Z	a	a	a	a	a	deflect
 METHOD	ath	(Laac;Ljava/lang/Exception;)V	a	a	a	a	a	onPacketError
+METHOD	crh	(Lcqq;Lbvj;Lbvj;Z)Z	a	a	a	a	a	deflect
 METHOD	cqp	(DDDFF)V	c	c	c	method_7485	setVelocity	shoot
 METHOD	ezk$a	(Ljava/util/List;)Lezx;	a	a	a	a	a	create
 METHOD	emu	(Leej;Leej;I)Lemu;	a	a	a	method_36313	create	of
@@ -87156,8 +87156,8 @@ METHOD	bj$a	()Ljava/util/Optional;	a	a	a	a	a	player
 METHOD	ot	()Ljava/util/stream/Stream;	a	a	a	method_25861	getInherited	getForced
 METHOD	eya	(ILeya;)Lcom/mojang/serialization/DataResult;	a	a	a	method_58458	method_58458	lambda$codec$2
 METHOD	anj	(Lcom/mojang/brigadier/context/CommandContext;)I	b	b	b	method_13006	method_13006	lambda$register$1
-METHOD	cru	()J	x	x	x	x	x	getContainerLootTableSeed
 METHOD	ead	(Ljava/util/function/Predicate;)Z	a	a	a	a	a	maybeHas
+METHOD	cru	()J	x	x	x	x	x	getContainerLootTableSeed
 METHOD	fmf	()Lcom/mojang/authlib/minecraft/MinecraftSessionService;	am	am	am	method_1495	getSessionService	getMinecraftSessionService
 METHOD	cie$b	()Z	b	b	b	b	b	canUse
 METHOD	bua	(Lbvj;Lbvj;)Lbtz;	a	a	a	method_48799	trident	trident
@@ -87915,8 +87915,8 @@ METHOD	axo	()Lxv;	c	c	c	method_30739	getName	getDisplayName
 METHOD	mh	(Lmf;Lcom/google/gson/JsonElement;Ljava/nio/file/Path;)Ljava/util/concurrent/CompletableFuture;	a	a	a	method_10320	writeToPath	saveStable
 METHOD	enu	(Lbam;Ljh;)I	a	a	a	method_14452	getCount	count
 METHOD	aod$a	(Lasi;)I	a	a	a	method_13340	method_13340	lambda$static$3
-METHOD	gfh	(Lace;)V	a	a	a	a	a	handleEnabledFeatures
 METHOD	grb	(Lbvj;Lgxu;F)V	a	a	a	a	a	extractRenderState
+METHOD	gfh	(Lace;)V	a	a	a	a	a	handleEnabledFeatures
 METHOD	hbd$a	(Lavv;Lalz;)Lhbd$a;	a	a	a	method_18156	load	load
 METHOD	dg$a	(Lewo;Ljava/util/List;)Z	a	a	a	method_37244	test	matches
 METHOD	elg	(Lelg;)Lbsn;	a	a	a	method_34366	method_34366	lambda$static$2
@@ -89725,8 +89725,8 @@ METHOD	fzo$b	(Lfnr;FF)V	a	a	a	a	a	renderIcon
 METHOD	fno	(Lfqc;)Lfno;	a	a	a	method_48193	of	leaf
 METHOD	ahd	(Lxb;)V	a	a	a	a	a	handle
 METHOD	cqd	(Lux;)V	a	a	a	a	a	readAdditionalSaveData
-METHOD	dsi	(Ldbf;)Ldxu;	a	a	a	a	a	getStateForPlacement
 METHOD	fqb	(CI)Z	a	a	a	a	a	charTyped
+METHOD	dsi	(Ldbf;)Ldxu;	a	a	a	a	a	getStateForPlacement
 METHOD	bhp	(Lcom/mojang/datafixers/Typed;)Lcom/mojang/datafixers/Typed;	d	d	d	method_53099	method_53099	lambda$entityFixer$6
 METHOD	fjp	(IZ)V	a	a	a	method_25121	method_25121	lambda$downloadWorld$9
 METHOD	bti$d	()Lbti$b;	f	f	f	comp_2910	comp_2910	itemContext
@@ -90593,8 +90593,8 @@ METHOD	eek	(Lkd;)Leek$b;	a	a	a	method_45518	toConfig	bake
 METHOD	bwr	()I	a	a	a	method_56081	getIndex	id
 METHOD	cof	(Lbxh;)V	e	e	e	method_24679	addAvoidTasks	initRetreatActivity
 METHOD	gxz	(Ljh;)Lduw;	c_	c_	c_	c_	c_	getBlockEntity
-METHOD	fqk	()Ljava/util/List;	aI_	aI_	aI_	aI_	aI_	children
 METHOD	cty	(Lcxo;)I	a_	a_	a_	a_	a_	getMaxStackSize
+METHOD	fqk	()Ljava/util/List;	aI_	aI_	aI_	aI_	aI_	children
 METHOD	edn	(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App;	a	a	a	method_31894	method_31894	lambda$static$3
 METHOD	eee	(J)Leee$a;	b	b	b	method_52211	createUnmixedXoroshiroSeed	upgradeSeedTo128bitUnmixed
 METHOD	euy$a	()Ldkl;	c	c	c	comp_586	sourceBlock	block
@@ -90616,8 +90616,8 @@ METHOD	dob	(Ldhh;Lbam;Ljh;Ldxu;)Z	a	a	a	a	a	isBonemealSuccess
 METHOD	byu	(Lcbm;FLash;Lbwn;J)Z	a	a	a	method_46954	method_46954	lambda$create$4
 METHOD	btp	(I)Lcxo;	a	a	a	a	a	getItem
 METHOD	ewd$a	()[Lewd$a;	d	d	d	method_36792	method_36792	$values
-METHOD	ckn	()I	aa	aa	aa	aa	aa	getMaxHeadYRot
 METHOD	cnr	()I	a	a	a	a	a	getRemainingPersistentAngerTime
+METHOD	ckn	()I	aa	aa	aa	aa	aa	getMaxHeadYRot
 METHOD	dkn	(Ldxu;)I	b	b	b	method_55132	method_55132	lambda$static$481
 METHOD	bwf	(Lash;Lbvj;)I	a	a	a	method_59923	getXpToDrop	getExperienceReward
 METHOD	ku	(Lkt$a;)Lkt$a;	B	B	B	method_57932	method_57932	lambda$static$39
@@ -91976,8 +91976,8 @@ METHOD	ckt	(Lash;Lckq;Lbtz;F)Z	a	a	a	method_6816	damagePart	hurt
 METHOD	dcu	(Ldbr;Ldhh;)Z	a	a	a	method_17732	matches	matches
 METHOD	amt	(I)Z	a	a	a	method_54672	step	stepGameIfPaused
 METHOD	fbs	(DDD)Lfbs;	b	b	b	method_1012	stretch	expandTowards
-METHOD	cil	(Lbwr;)Lbvm;	e	e	e	e	e	getDefaultDimensions
 METHOD	def$d	(I)F	a	a	a	a	a	calculate
+METHOD	cil	(Lbwr;)Lbvm;	e	e	e	e	e	getDefaultDimensions
 METHOD	djp	(Ldhh;Lbam;Ljh;Ldxu;)Z	a	a	a	a	a	isBonemealSuccess
 METHOD	aoc	(Lew;Ljh;Lcuz;Ljava/util/function/Predicate;)I	a	a	a	method_58034	countMatchingItems	countItems
 METHOD	vl	(Lvu;)Lcom/mojang/serialization/DataResult;	j	j	j	method_10637	getLongStream	getLongStream
@@ -92127,8 +92127,8 @@ METHOD	erg	(Lepb;Leoj$a;Ljh;Ldrb;)V	a	a	a	method_41696	addPieces	generatePieces
 METHOD	ftz	(Lfoe;)V	b	b	b	method_55814	method_55814	lambda$createNormalMenuOptions$9
 METHOD	zt	(Lzw;Lzu;)Lzt;	a	a	a	method_56438	of	ofMember
 METHOD	aot	(Laot$b;Lcom/mojang/brigadier/context/CommandContext;)I	f	f	f	method_13177	method_13177	lambda$register$9
-METHOD	ciz	(Ljava/lang/Object;)V	a	a	a	a	a	setVariant
 METHOD	bux	(Lash;Lbwf;ILbvj$d;)V	a	a	a	a	a	onMobRemoved
+METHOD	ciz	(Ljava/lang/Object;)V	a	a	a	a	a	setVariant
 METHOD	glq$c	(Lfew;Ljava/util/Map;)V	a	a	a	a	a	addToPass
 METHOD	ebk	(Lvu;)Lux;	a	a	a	method_61799	method_61799	lambda$parse$3
 METHOD	vl	(Lvu;)Lcom/mojang/serialization/DataResult;	a	a	a	method_10645	getNumberValue	getNumberValue
@@ -92176,8 +92176,8 @@ METHOD	jy	()Ljava/util/stream/Stream;	l	l	l	l	l	getTags
 METHOD	bvj	(F)V	d	d	d	method_5639	setOnFireFor	igniteForSeconds
 METHOD	jo	(Ljm;Ljm;)Ljo;	a	a	a	method_26425	byDirections	fromFrontAndTop
 METHOD	cmm	(Ljava/util/UUID;)V	a	a	a	a	a	setPersistentAngerTarget
-METHOD	cvu	(Lcma;)V	a	a	a	a	a	onDestroyed
 METHOD	azg$c	()F	b	b	b	b	b	minValue
+METHOD	cvu	(Lcma;)V	a	a	a	a	a	onDestroyed
 METHOD	cqa$c	(II)V	f	f	f	method_61518	markNotMissing	unassign
 METHOD	cmk	(Lbtz;)Laxe;	e	e	e	e	e	getHurtSound
 METHOD	dyu	()Ljava/lang/String;	c	c	c	c	c	getSerializedName
@@ -93010,8 +93010,8 @@ METHOD	by	(Ljq;)Lbx;	a	a	a	method_58153	catVariant	catVariant
 METHOD	aev	()Laae;	a	a	a	a	a	type
 METHOD	aoj	(Lcom/mojang/brigadier/CommandDispatcher;Les;)V	a	a	a	method_13392	register	register
 METHOD	edc	(I)Z	a	a	a	method_42692	indexInBounds	isInKernelRange
-METHOD	ftk	(Lfnr;IIF)V	a	a	a	a	a	render
 METHOD	cfq	(Lbvj;I)Leuk;	a	a	a	a	a	createPath
+METHOD	ftk	(Lfnr;IIF)V	a	a	a	a	a	render
 METHOD	ehl	(Legx;)Z	a	a	a	a	a	place
 METHOD	aot	(Lcom/mojang/brigadier/context/CommandContext;Ljh;Lcxo;Laot$b;)I	a	a	a	method_13219	executeMine	dropBlockLoot
 METHOD	frb$b	()Lfrb;	d	d	d	comp_3316	comp_3316	glyph
@@ -94275,8 +94275,8 @@ METHOD	acv	()Lit/unimi/dsi/fastutil/objects/Object2IntMap;	b	b	b	comp_2197	stats
 METHOD	akw$c	()Lakw$c;	a	a	a	method_49097	create	current
 METHOD	blb	(Lcom/mojang/datafixers/schemas/Schema;)Lcom/mojang/datafixers/types/templates/TypeTemplate;	a	a	a	method_5231	method_5231	lambda$registerTypes$0
 METHOD	ffm	(II)Lffm$a;	a	a	a	method_15985	fromKeyCode	getKey
-METHOD	ewg	()I	u	u	u	u	u	getWanderingTraderSpawnChance
 METHOD	frt	()V	a	a	a	a	a	arrangeElements
+METHOD	ewg	()I	u	u	u	u	u	getWanderingTraderSpawnChance
 METHOD	gfv	(Ldhe;)V	a	a	a	method_2963	setGameMode	setGameMode
 METHOD	zs$b	()Ljava/lang/Object;	b	b	b	comp_2229	id	type
 METHOD	def	(Ldef;)Ldef;	b	b	b	method_60195	method_60195	lambda$static$2
@@ -94486,8 +94486,8 @@ METHOD	frv	()I	y	y	y	method_25368	getWidth	getWidth
 METHOD	cig$f	()D	i	i	i	i	i	acceptedDistance
 METHOD	etk	(Letn;)V	a	a	a	method_15527	updateLight	markNewInconsistencies
 METHOD	glu	(Lalz;)Lglu;	t	t	t	method_23570	getBlockBreaking	crumbling
-METHOD	hed	()Z	b	b	b	b	b	isGui3d
 METHOD	ckt	()F	fg	fg	fg	fg	fg	getSoundVolume
+METHOD	hed	()Z	b	b	b	b	b	isGui3d
 METHOD	fb	(Ljava/util/stream/Stream;Lcom/mojang/brigadier/suggestion/SuggestionsBuilder;)Ljava/util/concurrent/CompletableFuture;	b	b	b	method_9264	suggestMatching	suggest
 METHOD	ejl	(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App;	a	a	a	method_28753	method_28753	lambda$static$2
 METHOD	ave	(Lazw;I)Lave;	a	a	a	method_14436	from	forVersion
@@ -94602,8 +94602,8 @@ METHOD	crk$d	()V	a	a	a	a	a	tick
 METHOD	ld	(Ldxu;)Ldyx;	a	a	a	method_64377	getRailShape	getRailShape
 METHOD	bhu	(Lcom/mojang/datafixers/OpticFinder;Lcom/mojang/datafixers/OpticFinder;Lcom/mojang/datafixers/OpticFinder;Lcom/mojang/datafixers/Typed;)Lcom/mojang/datafixers/Typed;	a	a	a	method_17330	method_17330	lambda$cap$9
 METHOD	deh	()Ljava/util/Optional;	d	d	d	comp_2703	comp_2703	requirements
-METHOD	ash	(Ljh;Ldxu;Ldxu;)V	a	a	a	a	a	onBlockStateChange
 METHOD	uv	()S	h	h	h	h	h	getAsShort
+METHOD	ash	(Ljh;Ldxu;Ldxu;)V	a	a	a	a	a	onBlockStateChange
 METHOD	adb$f	()Ladb$d;	a	a	a	a	a	getType
 METHOD	azn	(Ljava/lang/Float;)Ljava/lang/String;	b	b	b	method_37932	method_37932	lambda$static$44
 METHOD	um	()Ljava/lang/String;	c	c	c	comp_2219	templatePath	testName
@@ -96235,8 +96235,8 @@ METHOD	cmz	(Lash;IZ)V	a	a	a	a	a	applyRaidBuffs
 METHOD	cng	()Lcmd$a;	m	m	m	m	m	getArmPose
 METHOD	cu	()Ljava/util/Map;	d	d	d	comp_2462	comp_2462	subPredicates
 METHOD	dwp	(Lash;Ljh;Ljq$c;)V	a	a	a	method_46694	method_46694	lambda$findOrCreateValidTeleportPos$2
-METHOD	uz	()B	b	b	b	b	b	getId
 METHOD	fgs	(II)Lfgv;	a	a	a	a	a	setUv1
+METHOD	uz	()B	b	b	b	b	b	getId
 METHOD	dds	()Lddi$a;	a	a	a	a	a	type
 METHOD	cby	(Lcoz;Lbwf;)V	b	b	b	method_43973	method_43973	lambda$tick$0
 METHOD	eah	(Ljv;Lcom/mojang/serialization/Codec;Leah$d;Ljava/lang/Object;)Lcom/mojang/serialization/Codec;	a	a	a	method_44343	createPalettedContainerCodec	codecRW
@@ -97996,8 +97996,8 @@ METHOD	cnr	()Lbxm$a;	gx	gx	gx	method_26941	createZombifiedPiglinAttributes	creat
 METHOD	lu	(Llu;)Ljava/lang/Float;	a	a	a	method_56185	method_56185	lambda$static$2
 METHOD	chx$e	(Ljh;)Z	d	d	d	method_24010	isCloseEnough	hasReachedTarget
 METHOD	hh	(Lcom/mojang/brigadier/StringReader;Lhh$d;)V	a	a	a	method_58517	consume	parse
-METHOD	dem	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
 METHOD	gqu	(Lbwf;Lgys;F)V	a	a	a	a	a	extractRenderState
+METHOD	dem	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
 METHOD	fmj	(Lxv;Ljava/lang/Boolean;)Lxv;	b	b	b	method_42491	method_42491	lambda$new$68
 METHOD	ftz	()V	aJ_	aJ_	aJ_	aJ_	aJ_	removed
 METHOD	ftt	()V	aP_	aP_	aP_	aP_	aP_	onClose
@@ -99446,8 +99446,8 @@ METHOD	bsw$a	(Lebf;)V	a	a	a	method_56541	recreate	onFileFinished
 METHOD	dhk	(Ljh;Ljh;)Z	a	a	a	method_22343	isRegionLoaded	hasChunksAt
 METHOD	gkd	()Z	aa_	aa_	aa_	aa_	aa_	isSpectator
 METHOD	hd$b	(Lcom/mojang/brigadier/ImmutableStringReader;Ljava/lang/Object;Lvu;)Ljava/lang/Object;	b	b	b	method_58511	subPredicatePredicate	createPredicateTest
-METHOD	bpk$a	()J	b	b	b	b	b	getMaxDuration
 METHOD	asi	(Laxm;I)V	a	a	a	a	a	awardStat
+METHOD	bpk$a	()J	b	b	b	b	b	getMaxDuration
 METHOD	dxn	(Ldxu;Ldrb;)Ldxu;	a	a	a	a	a	rotate
 METHOD	dis$b	(Ljava/lang/Float;Ljava/lang/Float;)Ljava/lang/String;	b	b	b	method_49496	method_49496	lambda$static$0
 METHOD	fxv	(Lfmf;II)V	a	a	a	method_2636	initialize	init
@@ -101068,8 +101068,8 @@ METHOD	dxa	()I	a	a	a	method_55209	getLuminance	lightLevel
 METHOD	auo	()Ljava/nio/file/attribute/BasicFileAttributes;	k	k	k	method_45234	getAttributes	getBasicAttributes
 METHOD	pf	(Ljava/lang/String;Lap;)Loz;	a	a	a	a	a	unlockedBy
 METHOD	bwf	(B)V	b	b	b	b	b	handleEntityEvent
-METHOD	bta	()Z	c	c	c	c	c	isEmpty
 METHOD	dzy	(I)Leaa;	b	b	b	b	b	getSection
+METHOD	bta	()Z	c	c	c	c	c	isEmpty
 METHOD	td	(I)Ljava/util/List;	a	a	a	method_39738	modifiers	worldSurfaceSquaredWithCount
 METHOD	bta	()V	e	e	e	e	e	setChanged
 METHOD	eav	()Ldzq;	b	b	b	comp_2435	comp_2435	generator
@@ -101278,8 +101278,8 @@ METHOD	com/mojang/blaze3d/platform/GlStateManager$n	()I	b	b	b	method_35331	getY	
 METHOD	dix$a	(Ldix$a;)Lcom/mojang/serialization/DataResult;	a	a	a	method_49517	method_49517	lambda$static$4
 METHOD	cop	(Lcoo;Lash;Lbwf;)Z	a	a	a	method_30259	method_30259	lambda$initFightActivity$0
 METHOD	fzk$c	()V	p	p	p	method_54632	method_54632	lambda$joinWorld$1
-METHOD	fwr	()I	a	a	a	a	a	getRowWidth
 METHOD	cuf$3	(Lcxo;)Z	a	a	a	a	a	mayPlace
+METHOD	fwr	()I	a	a	a	a	a	getRowWidth
 METHOD	bih	(Lcom/mojang/datafixers/Typed;)Lcom/mojang/datafixers/Typed;	a	a	a	method_60600	method_60600	lambda$makeRule$2
 METHOD	cfr	()V	c	c	c	method_6360	tick	tick
 METHOD	evb	(Leve;I)I	a	a	a	method_61835	packOrientationAndPower	packOrientationAndPower
@@ -101692,8 +101692,8 @@ METHOD	faa	(Lewo$b;Lbw;)Lezx$a;	a	a	a	method_27865	builder	hasProperties
 METHOD	cx	(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App;	a	a	a	method_59685	method_59685	lambda$static$0
 METHOD	cme	(Lbvr;Lcxo;)V	a	a	a	a	a	setItemSlot
 METHOD	etc	(IDDDD)D	a	a	a	method_16455	grad	getCornerNoise3D
-METHOD	cjs	(Lash;Lbwf;J)V	c	c	c	c	c	tick
 METHOD	dmf	(Ldxu;Ldhh;Ljh;Ldxu;Z)V	a	a	a	a	a	onRemove
+METHOD	cjs	(Lash;Lbwf;J)V	c	c	c	c	c	tick
 METHOD	cea	()Lfbx;	h	h	h	method_6302	getWanderTarget	getPosition
 METHOD	fhc$d	(Lfnr;IIIIIIIZF)V	a	a	a	a	a	render
 METHOD	ati	()V	o	o	o	method_52412	pollTask	startNextTask
@@ -101885,8 +101885,8 @@ METHOD	chl$a	(Ljava/lang/Runnable;Lchk$a;)Lchk;	a	a	a	method_61454	method_61454	
 METHOD	cij	(Lash;Lcxo;Lcid;)V	a	a	a	method_63648	method_63648	lambda$shear$1
 METHOD	cmp$c	()I	i	i	i	i	i	getCastingInterval
 METHOD	ch	(Lcpu;)Z	a	a	a	method_63643	matches	matches
-METHOD	fkc$b	(Lfnr;II)V	a	a	a	a	a	renderHeader
 METHOD	edj$o	([DLedi$a;)V	a	a	a	a	a	fillArray
+METHOD	fkc$b	(Lfnr;II)V	a	a	a	a	a	renderHeader
 METHOD	fav	()F	e	e	e	comp_1899	comp_1899	scale
 METHOD	cpw	()Z	cM	cM	cM	cM	cM	shouldShowName
 METHOD	gce	()Lget;	a	a	a	method_32019	getTexturedModelData	createBodyLayer
@@ -102938,8 +102938,8 @@ METHOD	mk	(Lmf;Ljs$a;)Ljava/util/concurrent/CompletionStage;	a	a	a	method_46809	
 METHOD	gsq	(Lgys;)F	c	c	c	method_23185	getAnimationCounter	getWhiteOverlayProgress
 METHOD	jm	()Lkl;	q	q	q	method_62675	getVector	getUnitVec3i
 METHOD	ob	(Ldkl;Lalz;Lalz;)V	f	f	f	method_25678	registerDoubleBlock	createDoubleBlock
-METHOD	cjn	()Laxe;	ac_	ac_	ac_	ac_	ac_	getSaddleSoundEvent
 METHOD	cko$1	(Lash;Lbwf;J)V	d	d	d	d	d	start
+METHOD	cjn	()Laxe;	ac_	ac_	ac_	ac_	ac_	getSaddleSoundEvent
 METHOD	fkf	(Lfoe;)V	b	b	b	method_25221	method_25221	lambda$init$0
 METHOD	fst	(Lfnr;IIF)V	b	b	b	b	b	renderBackground
 METHOD	ash	(Lasi;Llq;ZDDDIDDDD)Z	a	a	a	method_14166	spawnParticles	sendParticles
@@ -102999,8 +102999,8 @@ METHOD	djr	(Ljh;Ldxu;)Lduw;	a	a	a	a	a	newBlockEntity
 METHOD	ewm$2	(Lczs;Ljava/util/stream/Stream;)Lczs;	a	a	a	method_59734	apply	setContents
 METHOD	bwf	(F)F	i	i	i	i	i	getViewYRot
 METHOD	gmx	(Ljava/util/Map;Lgnk;Ldxu;)V	a	a	a	method_62331	method_62331	lambda$instantiate$0
-METHOD	des	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
 METHOD	edj$q	([DLedi$a;)V	a	a	a	a	a	fillArray
+METHOD	des	()Lcom/mojang/serialization/MapCodec;	a	a	a	a	a	codec
 METHOD	fyw	(Lavl;Lamk;Ljx;Lfyx;)Lfzg;	a	a	a	method_45681	method_45681	lambda$applyNewPackConfig$21
 METHOD	edk	(Ldxu;)Ldxu;	a	a	a	method_28002	method_28002	lambda$getBaseColumn$3
 METHOD	bzx	(Lbvq;F)Lbzj;	a	a	a	method_47057	create	create
@@ -104397,8 +104397,8 @@ METHOD	tv$1	(Lts;)V	a	a	a	a	a	testStructureLoaded
 METHOD	ui	(Leob;Lash;)V	a	a	a	method_22246	clearArea	clearSpaceForStructure
 METHOD	ul$a	(Lum;)Z	a	a	a	method_57969	method_57969	lambda$allTestsInClass$9
 METHOD	fwx	(Lfwx;)Lfnp;	a	a	a	method_60328	method_60328	access$000
-METHOD	fuh	(Lai;)V	b	b	b	b	b	onRemoveAdvancementRoot
 METHOD	gtd	(Lgys;Lfgr;FF)V	a	a	a	a	a	setupRotations
+METHOD	fuh	(Lai;)V	b	b	b	b	b	onRemoveAdvancementRoot
 METHOD	aks	()J	b	b	b	method_12700	getStartTime	getTime
 METHOD	dtf	(Ldxu;)Z	f_	f_	f_	f_	f_	isSignalSource
 METHOD	hej$2	(Ljava/util/UUID;Lhel$b;)V	a	a	a	a	a	reportUpdate
@@ -104639,8 +104639,8 @@ METHOD	asd	(F)V	a	a	a	a	a	setProgress
 METHOD	gof	(Ldzg;)Ldzg;	b	b	b	method_45796	method_45796	lambda$new$0
 METHOD	cxo	()Z	l	l	l	method_7946	isStackable	isStackable
 METHOD	hby	(Lhby;)Ljava/lang/Double;	b	b	b	method_47694	method_47694	lambda$static$2
-METHOD	chj$a	(J)I	b	b	b	b	b	getLevelFromSource
 METHOD	crv	(F)V	p	p	p	p	p	animateHurt
+METHOD	chj$a	(J)I	b	b	b	b	b	getLevelFromSource
 METHOD	gof$a	(Ldxu;)V	a	a	a	method_45797	updateVisibleParts	evaluateVisibleParts
 METHOD	dwe	(Laly;)V	a	a	a	a	a	setLootTable
 METHOD	clp	(Lbvj;)V	D	D	D	D	D	doPush
@@ -104966,8 +104966,8 @@ METHOD	ebb	()V	d	d	d	method_64030	runRemainingTasks	waitForShutdown
 METHOD	aab$a	(Laac;)Laac;	a	a	a	method_48328	add	addPacket
 METHOD	fmj	()Lfmi;	w	w	w	method_53530	getNarratorHotkey	narratorHotkey
 METHOD	hgb	(Ljava/util/function/Consumer;)V	b	b	b	method_19730	method_19730	lambda$executeOnChannels$2
-METHOD	foc	()I	D	D	D	D	D	getX
 METHOD	djr	(Ldxu;)Ldqu;	a_	a_	a_	a_	a_	getRenderShape
+METHOD	foc	()I	D	D	D	D	D	getX
 METHOD	dl	()Ldj$c;	g	g	g	comp_2778	comp_2778	fallDistance
 METHOD	cpw	()V	gg	gg	gg	method_7331	requestRespawn	respawn
 METHOD	aqk	(Lcom/mojang/brigadier/context/CommandContext;)I	b	b	b	method_56527	method_56527	lambda$register$2
@@ -105478,8 +105478,8 @@ METHOD	abi	()Lecu;	b	b	b	comp_1681	comp_1681	listenerPos
 METHOD	dbz	(Lcxo;Ldbz;)Ljava/lang/Boolean;	a	a	a	method_61672	method_61672	lambda$testOptionalIngredient$6
 METHOD	euk	(Lbvj;)Lfbx;	a	a	a	method_49	getNodePosition	getNextEntityPos
 METHOD	cig$o	()V	a	a	a	a	a	tick
-METHOD	bwx$4	()Lcxo;	a	a	a	a	a	get
 METHOD	vp	()S	h	h	h	h	h	getAsShort
+METHOD	bwx$4	()Lcxo;	a	a	a	a	a	get
 METHOD	gcm	()Lgev;	a	a	a	method_47655	getModelData	createHeadModel
 METHOD	uu	(Lvy;)V	a	a	a	a	a	accept
 METHOD	emm	()Ljava/lang/String;	h	h	h	method_49537	method_49537	lambda$validateHeight$5
@@ -105650,8 +105650,8 @@ METHOD	fgw$c	()[Lfgw$c;	a	a	a	method_36817	method_36817	$values
 METHOD	foa	(Lfnr;IIF)V	b	b	b	b	b	renderWidget
 METHOD	dbu	()Ldcn;	a	a	a	a	a	getSerializer
 METHOD	nn	(Lnn;Ldkl;)Lewt$a;	u	u	u	method_46176	method_46176	lambda$generate$175
-METHOD	gjr	()F	e	e	e	e	e	getV0
 METHOD	cnq	(B)V	b	b	b	b	b	handleEntityEvent
+METHOD	gjr	()F	e	e	e	e	e	getV0
 METHOD	ctt	()Ldbr$a;	aD_	aD_	aD_	method_60501	createPositionedRecipeInput	asPositionedCraftInput
 METHOD	fmi$a	()Ljava/util/List;	b	b	b	comp_671	comp_671	values
 METHOD	cxk	(Lcxo;Ldhh;Lbvj;IZ)V	a	a	a	method_7888	inventoryTick	inventoryTick
@@ -106531,8 +106531,8 @@ METHOD	cnb	()Laxe;	u	u	u	u	u	getAmbientSound
 METHOD	xq	(Lasi;Lxv;)Lxv;	a	a	a	method_44303	method_44303	lambda$static$0
 METHOD	aba	()Laae;	a	a	a	a	a	type
 METHOD	ob	()V	ah	ah	ah	method_42037	registerSculkShrieker	createSculkShrieker
-METHOD	asi	(Lash;Ljh;)V	b	b	b	b	b	onChangedBlock
 METHOD	gre	(Lbwf;Lgys;F)V	a	a	a	a	a	extractRenderState
+METHOD	asi	(Lash;Ljh;)V	b	b	b	b	b	onChangedBlock
 METHOD	fmi$i	(Lfnr;IIF)V	b	b	b	b	b	renderWidget
 METHOD	yr$a	(Lyl;)Z	b	b	b	method_53509	verify	validate
 METHOD	bua	(Lbvj;)Lbtz;	a	a	a	method_48798	fallingBlock	fallingBlock
@@ -106675,8 +106675,8 @@ METHOD	ajj	(Lahm;)V	a	a	a	method_12542	apply	handle
 METHOD	ezh	(Lbbo$a;)V	v	v	v	method_15970	method_15970	lambda$static$4
 METHOD	ob	()V	aq	aq	aq	method_25591	registerStructureBlock	createStructureBlock
 METHOD	ffn	()V	c	c	c	method_24210	disableGuiDepthLighting	setupForFlatItems
-METHOD	dzw	(I)Ljava/lang/Object;	a	a	a	a	a	valueFor
 METHOD	edj$r	(Ledi$b;)D	a	a	a	a	a	compute
+METHOD	dzw	(I)Ljava/lang/Object;	a	a	a	a	a	valueFor
 METHOD	hfa	()V	q	q	q	q	q	tick
 METHOD	cgs	(Lbwf;)Z	b	b	b	method_20001	isVillagerBaby	isVillagerBaby
 METHOD	dnl	(Ldxu;Leul;)Z	a	a	a	a	a	isPathfindable

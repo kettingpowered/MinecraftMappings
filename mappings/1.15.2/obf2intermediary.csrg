@@ -2956,6 +2956,7 @@ aiq a ()I method_15409
 aiq a (Laiq;)I method_15408
 aiq a field_15739
 aiq b field_15737
+aiq c field_19384
 aiq d field_15738
 aiq net/minecraft/class_3534
 ais a (Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture; method_5382

@@ -16861,6 +16861,7 @@ bpv a ()I method_15409
 bpv a (Lbpv;)I method_15408
 bpv a field_15739
 bpv b field_15737
+bpv c field_19384
 bpv d field_15738
 bpv net/minecraft/class_3534
 bpw a ()Lbpt; method_24339

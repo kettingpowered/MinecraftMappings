@@ -33502,6 +33502,7 @@ FD: net/minecraft/util/profiling/MethodProfiler/b net/minecraft/class_4757/field
 FD: net/minecraft/util/profiling/MethodProfiler/c net/minecraft/class_4757/field_21964
 FD: net/minecraft/util/profiling/MethodProfilerResult/a net/minecraft/class_3534/field_15739
 FD: net/minecraft/util/profiling/MethodProfilerResult/b net/minecraft/class_3534/field_15737
+FD: net/minecraft/util/profiling/MethodProfilerResult/c net/minecraft/class_3534/field_19384
 FD: net/minecraft/util/profiling/MethodProfilerResult/d net/minecraft/class_3534/field_15738
 FD: net/minecraft/util/profiling/MethodProfilerResults/a net/minecraft/class_10209/field_54215
 FD: net/minecraft/util/profiling/MethodProfilerResults/b net/minecraft/class_10209/field_54216

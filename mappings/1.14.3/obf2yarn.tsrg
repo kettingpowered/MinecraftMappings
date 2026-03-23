@@ -25247,6 +25247,7 @@ ava$b net/minecraft/entity/mob/SpellcastingIllagerEntity$LookAtTargetGoal
 agl net/minecraft/util/profiler/ProfilerTiming
 	a parentSectionUsagePercentage
 	b totalUsagePercentage
+	c field_19384
 	d name
 	a ()I getColor
 	a (Lagl;)I method_15408

@@ -17732,7 +17732,7 @@ FD: net/minecraft/potion/Potions/TURTLE_MASTER net/minecraft/class_1847/field_89
 FD: net/minecraft/potion/Potions/WATER net/minecraft/class_1847/field_8991
 FD: net/minecraft/potion/Potions/WATER_BREATHING net/minecraft/class_1847/field_8994
 FD: net/minecraft/potion/Potions/WEAKNESS net/minecraft/class_1847/field_8975
-FD: net/minecraft/profiler/DataPoint/field_223511_c net/minecraft/class_3534/c
+FD: net/minecraft/profiler/DataPoint/field_223511_c net/minecraft/class_3534/field_19384
 FD: net/minecraft/profiler/DataPoint/name net/minecraft/class_3534/field_15738
 FD: net/minecraft/profiler/DataPoint/relTime net/minecraft/class_3534/field_15739
 FD: net/minecraft/profiler/DataPoint/rootRelTime net/minecraft/class_3534/field_15737

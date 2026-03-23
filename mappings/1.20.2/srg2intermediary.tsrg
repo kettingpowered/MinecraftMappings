@@ -60359,7 +60359,7 @@ net/minecraft/src/C_141882_ net/minecraft/class_6315
 net/minecraft/src/C_445_ net/minecraft/class_3534
 	f_18607_ field_15739
 	f_18608_ field_15737
-	f_18609_ c
+	f_18609_ field_19384
 	f_18610_ field_15738
 	compareTo (Lnet/minecraft/src/C_445_;)I method_15408
 	m_18616_ ()I method_15409

@@ -29622,10 +29622,9 @@ net/minecraft/client/render/entity/feature/SlimeOverlayFeatureRenderer net/minec
 	a ()Z colorsOnDamage
 	a (Lnet/minecraft/entity/Entity;FFFFFFF)V render
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/util/profiling/ResultField
-	c count
 	parentSectionUsagePercentage percentage
 	totalUsagePercentage globalPercentage
-	visitCount field_19384
+	visitCount count
 net/minecraft/client/gl/GlDebug com/mojang/blaze3d/platform/GlDebug
 	ARB_VERBOSITY_LEVELS DEBUG_LEVELS_ARB
 	CONSTANTS BY_ID

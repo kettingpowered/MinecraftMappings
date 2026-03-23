@@ -2906,6 +2906,7 @@ ain a ()I method_15409
 ain a (Lain;)I method_15408
 ain a field_15739
 ain b field_15737
+ain c field_19384
 ain d field_15738
 ain net/minecraft/class_3534
 aip a (Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture; method_5382

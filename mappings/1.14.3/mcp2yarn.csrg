@@ -28734,7 +28734,7 @@ net/minecraft/potion/Potions WATER field_8991
 net/minecraft/potion/Potions WATER_BREATHING field_8994
 net/minecraft/potion/Potions WEAKNESS field_8975
 net/minecraft/profiler/DataPoint compareTo (Lnet/minecraft/profiler/DataPoint;)I method_15408
-net/minecraft/profiler/DataPoint field_223511_c c
+net/minecraft/profiler/DataPoint field_223511_c field_19384
 net/minecraft/profiler/DataPoint getTextColor ()I getColor
 net/minecraft/profiler/DataPoint net/minecraft/util/profiler/ProfilerTiming
 net/minecraft/profiler/DataPoint relTime parentSectionUsagePercentage

@@ -15442,6 +15442,7 @@ FD: bou$a/c net/minecraft/class_3695$class_10211/field_21966
 FD: bou/b net/minecraft/class_3695/field_29925
 FD: bow/a net/minecraft/class_3534/field_15739
 FD: bow/b net/minecraft/class_3534/field_15737
+FD: bow/c net/minecraft/class_3534/field_19384
 FD: bow/d net/minecraft/class_3534/field_15738
 FD: box/a net/minecraft/class_4758/field_21967
 FD: box/b net/minecraft/class_4758/field_21968

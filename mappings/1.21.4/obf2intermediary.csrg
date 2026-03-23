@@ -16555,6 +16555,7 @@ bow a ()I method_15409
 bow a (Lbow;)I method_15408
 bow a field_15739
 bow b field_15737
+bow c field_19384
 bow d field_15738
 bow net/minecraft/class_3534
 box a ()Lbou; method_24339

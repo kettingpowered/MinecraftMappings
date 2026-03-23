@@ -27733,6 +27733,7 @@ net/minecraft/entity/ai/brain/task/WakeUpTask alu
 net/minecraft/client/render/entity/feature/SlimeOverlayFeatureRenderer dtn
 	model a
 net/minecraft/util/profiler/ProfilerTiming agl
+	field_19384 c
 	name d
 	parentSectionUsagePercentage a
 	totalUsagePercentage b

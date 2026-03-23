@@ -33568,7 +33568,7 @@ net/minecraft/profiler/DataPoint compareTo (Lnet/minecraft/profiler/DataPoint;)I
 net/minecraft/profiler/DataPoint field_219943_a parentSectionUsagePercentage
 net/minecraft/profiler/DataPoint field_219944_b totalUsagePercentage
 net/minecraft/profiler/DataPoint field_219945_c name
-net/minecraft/profiler/DataPoint field_223511_c c
+net/minecraft/profiler/DataPoint field_223511_c field_19384
 net/minecraft/profiler/DataPoint func_219942_a ()I getColor
 net/minecraft/profiler/DataPoint net/minecraft/util/profiler/ProfilerTiming
 net/minecraft/profiler/DebugProfiler field_219901_a field_16268

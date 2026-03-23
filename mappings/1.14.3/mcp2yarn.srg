@@ -12576,7 +12576,7 @@ FD: net/minecraft/potion/Potions/TURTLE_MASTER net/minecraft/potion/Potions/fiel
 FD: net/minecraft/potion/Potions/WATER net/minecraft/potion/Potions/field_8991
 FD: net/minecraft/potion/Potions/WATER_BREATHING net/minecraft/potion/Potions/field_8994
 FD: net/minecraft/potion/Potions/WEAKNESS net/minecraft/potion/Potions/field_8975
-FD: net/minecraft/profiler/DataPoint/field_223511_c net/minecraft/util/profiler/ProfilerTiming/c
+FD: net/minecraft/profiler/DataPoint/field_223511_c net/minecraft/util/profiler/ProfilerTiming/field_19384
 FD: net/minecraft/profiler/DataPoint/relTime net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage
 FD: net/minecraft/profiler/DataPoint/rootRelTime net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage
 FD: net/minecraft/profiler/DebugProfiler$DebugResultEntryImpl/field_219940_a net/minecraft/util/profiler/DisableableProfiler$ProfilerControllerImpl/profiler

@@ -40665,7 +40665,7 @@ net/minecraft/util/profiler/ProfilerSystem nameList paths
 net/minecraft/util/profiler/ProfilerSystem net/minecraft/util/profiling/ActiveProfiler
 net/minecraft/util/profiler/ProfilerSystem tickStarted started
 net/minecraft/util/profiler/ProfilerSystem timeList startTimes
-net/minecraft/util/profiler/ProfilerTiming c count
+net/minecraft/util/profiler/ProfilerTiming field_19384 count
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/util/profiling/ResultField
 net/minecraft/util/profiler/ProfilerTiming parentSectionUsagePercentage percentage
 net/minecraft/util/profiler/ProfilerTiming totalUsagePercentage globalPercentage

@@ -11388,8 +11388,7 @@ FD: net/minecraft/util/profiling/GameProfiler/continuous net/minecraft/util/prof
 FD: net/minecraft/util/profiling/GameProfiler/getTickTime net/minecraft/util/profiler/DisableableProfiler/tickSupplier
 FD: net/minecraft/util/profiling/GameProfiler/perTick net/minecraft/util/profiler/DisableableProfiler/field_16271
 FD: net/minecraft/util/profiling/InactiveProfiler/INACTIVE net/minecraft/util/profiler/DummyProfiler/INSTANCE
-FD: net/minecraft/util/profiling/ResultField/count net/minecraft/util/profiler/ProfilerTiming/c
-FD: net/minecraft/util/profiling/ResultField/field_19384 net/minecraft/util/profiler/ProfilerTiming/visitCount
+FD: net/minecraft/util/profiling/ResultField/count net/minecraft/util/profiler/ProfilerTiming/visitCount
 FD: net/minecraft/util/profiling/ResultField/globalPercentage net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage
 FD: net/minecraft/util/profiling/ResultField/percentage net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage
 FD: net/minecraft/util/thread/BlockableEventLoop/blockingCount net/minecraft/util/thread/ThreadExecutor/executionsInProgress

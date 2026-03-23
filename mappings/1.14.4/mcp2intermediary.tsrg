@@ -2795,7 +2795,7 @@ net/minecraft/entity/ai/goal/RunAroundLikeCrazyGoal net/minecraft/class_1387
 	startExecuting ()V c
 	tick ()V e
 net/minecraft/profiler/DataPoint net/minecraft/class_3534
-	field_223511_c c
+	field_223511_c field_19384
 	name field_15738
 	relTime field_15739
 	rootRelTime field_15737

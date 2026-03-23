@@ -29308,6 +29308,7 @@ ail net/minecraft/util/profiler/ProfileResult
 ain net/minecraft/util/profiler/ProfilerTiming
 	a parentSectionUsagePercentage
 	b totalUsagePercentage
+	c field_19384
 	d name
 	a ()I getColor
 	a (Lain;)I compareTo

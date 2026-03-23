@@ -17907,6 +17907,7 @@ bro a ()I method_15409
 bro a (Lbro;)I method_15408
 bro a field_15739
 bro b field_15737
+bro c field_19384
 bro d field_15738
 bro net/minecraft/class_3534
 brp a ()Lbrm; method_24339

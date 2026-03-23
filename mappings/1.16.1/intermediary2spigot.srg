@@ -18228,6 +18228,7 @@ FD: net/minecraft/class_3533/field_21961 net/minecraft/server/MethodProfiler/g
 FD: net/minecraft/class_3534/field_15737 net/minecraft/server/MethodProfilerResultsField/b
 FD: net/minecraft/class_3534/field_15738 net/minecraft/server/MethodProfilerResultsField/d
 FD: net/minecraft/class_3534/field_15739 net/minecraft/server/MethodProfilerResultsField/a
+FD: net/minecraft/class_3534/field_19384 net/minecraft/server/MethodProfilerResultsField/c
 FD: net/minecraft/class_3535/field_15740 net/minecraft/server/WorldGenSurfaceMesaForest/ai
 FD: net/minecraft/class_3535/field_15741 net/minecraft/server/WorldGenSurfaceMesaForest/ah
 FD: net/minecraft/class_3535/field_15742 net/minecraft/server/WorldGenSurfaceMesaForest/aj

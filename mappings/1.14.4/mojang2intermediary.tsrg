@@ -16053,7 +16053,7 @@ com/mojang/realmsclient/client/RealmsClient$Environment net/minecraft/class_4341
 	baseUrl field_19589
 	protocol field_19590
 net/minecraft/util/profiling/ResultField net/minecraft/class_3534
-	count c
+	count field_19384
 	globalPercentage field_15737
 	name field_15738
 	percentage field_15739

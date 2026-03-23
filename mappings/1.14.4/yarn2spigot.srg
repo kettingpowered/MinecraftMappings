@@ -20326,7 +20326,7 @@ FD: net/minecraft/util/profiler/ProfilerSystem/timeList net/minecraft/server/Met
 FD: net/minecraft/util/profiler/ProfilerTiming/name net/minecraft/server/MethodProfilerResultsField/d
 FD: net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage net/minecraft/server/MethodProfilerResultsField/a
 FD: net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage net/minecraft/server/MethodProfilerResultsField/b
-FD: net/minecraft/util/profiler/ProfilerTiming/visitCount net/minecraft/server/MethodProfilerResultsField/field_19384
+FD: net/minecraft/util/profiler/ProfilerTiming/visitCount net/minecraft/server/MethodProfilerResultsField/c
 FD: net/minecraft/util/registry/DefaultedRegistry/defaultId net/minecraft/server/RegistryBlocks/R
 FD: net/minecraft/util/registry/DefaultedRegistry/defaultValue net/minecraft/server/RegistryBlocks/S
 FD: net/minecraft/util/registry/Registry/BLOCK_ENTITY net/minecraft/server/IRegistry/BLOCK_ENTITY_TYPE

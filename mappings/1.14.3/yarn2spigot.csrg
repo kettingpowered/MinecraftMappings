@@ -33536,6 +33536,7 @@ net/minecraft/util/profiler/ProfilerSystem nameList c
 net/minecraft/util/profiler/ProfilerSystem net/minecraft/server/MethodProfiler
 net/minecraft/util/profiler/ProfilerSystem tickStarted k
 net/minecraft/util/profiler/ProfilerSystem timeList d
+net/minecraft/util/profiler/ProfilerTiming field_19384 c
 net/minecraft/util/profiler/ProfilerTiming getColor ()I a
 net/minecraft/util/profiler/ProfilerTiming method_15408 (Lnet/minecraft/util/profiler/ProfilerTiming;)I a
 net/minecraft/util/profiler/ProfilerTiming name d

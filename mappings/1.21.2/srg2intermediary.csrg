@@ -16859,6 +16859,7 @@ bpu a ()I method_15409
 bpu a (Lbpu;)I method_15408
 bpu a field_15739
 bpu b field_15737
+bpu c field_19384
 bpu d field_15738
 bpu net/minecraft/class_3534
 bpv a ()Lbps; method_24339

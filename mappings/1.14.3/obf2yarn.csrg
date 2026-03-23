@@ -1226,6 +1226,7 @@ agl a ()I getColor
 agl a (Lagl;)I method_15408
 agl a parentSectionUsagePercentage
 agl b totalUsagePercentage
+agl c field_19384
 agl d name
 agl net/minecraft/util/profiler/ProfilerTiming
 agn a (Ljava/lang/Runnable;)Ljava/util/concurrent/CompletableFuture; executeFuture

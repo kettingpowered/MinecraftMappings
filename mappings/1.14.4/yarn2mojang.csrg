@@ -38934,11 +38934,10 @@ net/minecraft/util/profiler/ProfilerSystem net/minecraft/util/profiling/ActivePr
 net/minecraft/util/profiler/ProfilerSystem path paths
 net/minecraft/util/profiler/ProfilerSystem tickStarted started
 net/minecraft/util/profiler/ProfilerSystem timeList startTimes
-net/minecraft/util/profiler/ProfilerTiming c count
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/util/profiling/ResultField
 net/minecraft/util/profiler/ProfilerTiming parentSectionUsagePercentage percentage
 net/minecraft/util/profiler/ProfilerTiming totalUsagePercentage globalPercentage
-net/minecraft/util/profiler/ProfilerTiming visitCount field_19384
+net/minecraft/util/profiler/ProfilerTiming visitCount count
 net/minecraft/util/profiler/ReadableProfiler a (Ljava/lang/String;)V push
 net/minecraft/util/profiler/ReadableProfiler a (Ljava/util/function/Supplier;)V push
 net/minecraft/util/profiler/ReadableProfiler b (Ljava/lang/String;)V popPush

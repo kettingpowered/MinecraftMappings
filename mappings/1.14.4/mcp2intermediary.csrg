@@ -36017,7 +36017,7 @@ net/minecraft/potion/Potions WEAKNESS field_8975
 net/minecraft/potion/Potions net/minecraft/class_1847
 net/minecraft/potion/Potions register (Ljava/lang/String;Lnet/minecraft/potion/Potion;)Lnet/minecraft/potion/Potion; method_8084
 net/minecraft/profiler/DataPoint compareTo (Lnet/minecraft/profiler/DataPoint;)I method_15408
-net/minecraft/profiler/DataPoint field_223511_c c
+net/minecraft/profiler/DataPoint field_223511_c field_19384
 net/minecraft/profiler/DataPoint getTextColor ()I method_15409
 net/minecraft/profiler/DataPoint name field_15738
 net/minecraft/profiler/DataPoint net/minecraft/class_3534

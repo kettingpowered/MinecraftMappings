@@ -28685,7 +28685,7 @@ net/minecraft/client/render/entity/feature/SlimeOverlayFeatureRenderer net/minec
 	a (Lnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;ILnet/minecraft/entity/Entity;FFFFFF)V func_225628_a_
 	render (Lnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;ILnet/minecraft/entity/LivingEntity;FFFFFF)V func_225628_a_
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/profiler/DataPoint
-	c field_223511_c
+	field_19384 field_223511_c
 	name field_219945_c
 	parentSectionUsagePercentage field_219943_a
 	totalUsagePercentage field_219944_b

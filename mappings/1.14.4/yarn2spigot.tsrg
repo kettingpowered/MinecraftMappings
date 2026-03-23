@@ -28309,7 +28309,7 @@ net/minecraft/util/profiler/ProfilerTiming net/minecraft/server/MethodProfilerRe
 	name d
 	parentSectionUsagePercentage a
 	totalUsagePercentage b
-	visitCount field_19384
+	visitCount c
 	compareTo (Lnet/minecraft/util/profiler/ProfilerTiming;)I a
 	getColor ()I a
 net/minecraft/client/gl/GlDebug cud

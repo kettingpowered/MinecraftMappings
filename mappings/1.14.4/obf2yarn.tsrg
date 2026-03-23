@@ -27085,8 +27085,8 @@ agl net/minecraft/util/profiler/ReadableProfiler
 ago net/minecraft/util/profiler/ProfilerTiming
 	a parentSectionUsagePercentage
 	b totalUsagePercentage
+	c visitCount
 	d name
-	field_19384 visitCount
 	a ()I getColor
 	a (Lago;)I compareTo
 agn net/minecraft/util/profiler/Profiler

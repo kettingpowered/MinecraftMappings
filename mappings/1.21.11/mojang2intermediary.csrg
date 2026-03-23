@@ -68461,7 +68461,7 @@ net/minecraft/util/profiling/ProfilerPathEntry getDuration ()J method_24272
 net/minecraft/util/profiling/ProfilerPathEntry getMaxDuration ()J method_37169
 net/minecraft/util/profiling/ProfilerPathEntry net/minecraft/class_4748
 net/minecraft/util/profiling/ResultField compareTo (Lnet/minecraft/util/profiling/ResultField;)I method_15408
-net/minecraft/util/profiling/ResultField count c
+net/minecraft/util/profiling/ResultField count field_19384
 net/minecraft/util/profiling/ResultField getColor ()I method_15409
 net/minecraft/util/profiling/ResultField globalPercentage field_15737
 net/minecraft/util/profiling/ResultField name field_15738

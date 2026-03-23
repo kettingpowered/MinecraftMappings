@@ -26936,6 +26936,7 @@ net/minecraft/entity/ai/brain/task/WakeUpTask net/minecraft/server/BehaviorWake
 net/minecraft/client/render/entity/feature/SlimeOverlayFeatureRenderer dtn
 	model a
 net/minecraft/util/profiler/ProfilerTiming net/minecraft/server/MethodProfilerResultsField
+	field_19384 c
 	name d
 	parentSectionUsagePercentage a
 	totalUsagePercentage b

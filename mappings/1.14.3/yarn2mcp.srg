@@ -15273,7 +15273,7 @@ FD: net/minecraft/util/profiler/ProfilerSystem/location net/minecraft/profiler/P
 FD: net/minecraft/util/profiler/ProfilerSystem/nameDurationMap net/minecraft/profiler/Profiler/timesMap
 FD: net/minecraft/util/profiler/ProfilerSystem/nameList net/minecraft/profiler/Profiler/sectionList
 FD: net/minecraft/util/profiler/ProfilerSystem/timeList net/minecraft/profiler/Profiler/timeStack
-FD: net/minecraft/util/profiler/ProfilerTiming/c net/minecraft/profiler/DataPoint/field_223511_c
+FD: net/minecraft/util/profiler/ProfilerTiming/field_19384 net/minecraft/profiler/DataPoint/field_223511_c
 FD: net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage net/minecraft/profiler/DataPoint/relTime
 FD: net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage net/minecraft/profiler/DataPoint/rootRelTime
 FD: net/minecraft/util/registry/DefaultedRegistry/defaultId net/minecraft/util/registry/DefaultedRegistry/defaultValueKey

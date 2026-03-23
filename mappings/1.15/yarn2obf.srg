@@ -21564,6 +21564,7 @@ FD: net/minecraft/util/profiler/ProfilerSystem/nameDurationMap aif/e
 FD: net/minecraft/util/profiler/ProfilerSystem/nameList aif/c
 FD: net/minecraft/util/profiler/ProfilerSystem/tickStarted aif/k
 FD: net/minecraft/util/profiler/ProfilerSystem/timeList aif/d
+FD: net/minecraft/util/profiler/ProfilerTiming/field_19384 ain/c
 FD: net/minecraft/util/profiler/ProfilerTiming/name ain/d
 FD: net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage ain/a
 FD: net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage ain/b

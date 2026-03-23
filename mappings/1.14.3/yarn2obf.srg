@@ -19507,6 +19507,7 @@ FD: net/minecraft/util/profiler/ProfilerSystem/nameDurationMap agd/e
 FD: net/minecraft/util/profiler/ProfilerSystem/nameList agd/c
 FD: net/minecraft/util/profiler/ProfilerSystem/tickStarted agd/k
 FD: net/minecraft/util/profiler/ProfilerSystem/timeList agd/d
+FD: net/minecraft/util/profiler/ProfilerTiming/field_19384 agl/c
 FD: net/minecraft/util/profiler/ProfilerTiming/name agl/d
 FD: net/minecraft/util/profiler/ProfilerTiming/parentSectionUsagePercentage agl/a
 FD: net/minecraft/util/profiler/ProfilerTiming/totalUsagePercentage agl/b
